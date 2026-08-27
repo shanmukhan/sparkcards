@@ -15,11 +15,14 @@
 src/
   data/
     types.ts        Subject/Band/Rarity/Card types, SUBJECT_INFO/BAND_INFO display metadata
-    maths.ts         20 cards (5 per band)
-    physics.ts        20 cards
-    electronics.ts     20 cards
-    astronomy.ts        20 cards
-    cards.ts         ALL_CARDS = concatenation of the four subject files, cardById()
+    maths.ts         28 cards (7 per band)
+    physics.ts        28 cards
+    electronics.ts     28 cards
+    astronomy.ts        28 cards
+    lightTime.ts         20 cards (5 per band)
+    circuits.ts            20 cards
+    cards.ts         ALL_CARDS = mutable pool seeded from the six subject files; replaceAllCards(), cardById()
+    remoteContent.ts  refreshCardsFromRemote(): fetches cards.json at startup to refresh ALL_CARDS in place
     badges.ts        Badge metadata (id, emoji, title, description) — ids must match gameStore's BADGE_DEFS
   game/
     session.ts       buildSession(): weighted card selection + boss-card injection for one play session
@@ -39,7 +42,7 @@ src/
 
 ## Data flow
 
-1. **Content is static** — `ALL_CARDS` is built once at module load from the four subject files and never mutated. All per-player state (mastery, XP, etc.) lives separately in the Zustand store, keyed by `card.id`. This keeps content and progress decoupled: shipping new/edited cards never touches saved progress, and wiping progress never touches content.
+1. **Content starts static, then may be refreshed at runtime.** `ALL_CARDS` (`src/data/cards.ts`) is seeded at module load from the six subject files, but it's a mutable array — `App.tsx` calls `refreshCardsFromRemote()` (`src/data/remoteContent.ts`) once on startup, which tries to fetch `/cards.json` and, if valid, replaces `ALL_CARDS`'s contents in place (same array reference, so every importer sees the update without re-importing). This is what lets new questions ship without a full app rebuild — see `docs/DEPLOYMENT.md`. All per-player state (mastery, XP, etc.) lives separately in the Zustand store, keyed by `card.id`, so content and progress stay decoupled: shipping new/edited cards never touches saved progress, and wiping progress never touches content.
 2. **`buildSession(subject, band, getMastery, length)`** (in `game/session.ts`) is a pure function: given the card pool and a mastery lookup, it returns a shuffled, weighted list of `SessionQuestion` (card + shuffled choice order + boss flag). `PlayScreen` calls it once per session via `useMemo`.
 3. **`PlayScreen`** walks through the session's questions one at a time. Each answer calls `useGameStore().answerCard(cardId, correct)`, which is the single place mastery/XP/coins/badges get updated. `PlayScreen` accumulates the session's totals locally (not stored) purely to hand them to `ResultsScreen` at the end.
 4. **Badge evaluation** happens synchronously inside `answerCard` (compares badge state before/after) so a badge earned mid-session is available to `ResultsScreen` immediately — no separate polling/effect needed.

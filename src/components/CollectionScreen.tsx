@@ -9,7 +9,7 @@ interface Props {
   onBack: () => void
 }
 
-const SUBJECTS: Subject[] = ['maths', 'physics', 'electronics', 'astronomy']
+const SUBJECTS = Object.keys(SUBJECT_INFO) as Subject[]
 
 export function CollectionScreen({ onBack }: Props) {
   const [filter, setFilter] = useState<Subject | 'all'>('all')

@@ -1,4 +1,4 @@
-export type Subject = 'maths' | 'physics' | 'electronics' | 'astronomy'
+export type Subject = 'maths' | 'physics' | 'electronics' | 'astronomy' | 'lighttime' | 'circuits'
 
 export type Band = 'foundations' | 'explorer' | 'builder' | 'innovator'
 
@@ -16,6 +16,8 @@ export const SUBJECT_INFO: Record<Subject, { label: string; emoji: string; color
   physics: { label: 'Physics', emoji: '⚡', color: 'from-amber-400 to-orange-600' },
   electronics: { label: 'Electronics', emoji: '🔌', color: 'from-emerald-400 to-teal-600' },
   astronomy: { label: 'Astronomy', emoji: '🪐', color: 'from-violet-400 to-purple-700' },
+  lighttime: { label: 'Light & Time', emoji: '💡', color: 'from-yellow-300 to-amber-600' },
+  circuits: { label: 'Circuits Basics', emoji: '🔋', color: 'from-rose-400 to-red-600' },
 }
 
 export interface Card {

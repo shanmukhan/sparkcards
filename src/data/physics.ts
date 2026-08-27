@@ -47,6 +47,24 @@ export const physicsCards: Card[] = [
     realWorldExample: 'This is why you can hear a friend talking across the room, and why drums make a "boom".',
     funFact: 'Sound cannot travel in space because there is no air to vibrate!',
   },
+  {
+    id: 'ph-f-6', subject: 'physics', band: 'foundations', rarity: 'common', emoji: '🎈',
+    title: 'Stretchy Things',
+    question: 'What happens to a rubber band when you stop stretching it?',
+    choices: ['It stays stretched forever', 'It springs back to its original shape', 'It breaks every time', 'It turns to liquid'], answerIndex: 1,
+    explanation: 'An elastic material like rubber stretches under force but springs back to its original shape once you let go.',
+    realWorldExample: 'Rubber bands, elastic waistbands, and trampolines all rely on this springing-back property.',
+    funFact: 'A trampoline\'s bounce comes from its springs and fabric stretching and snapping back super fast!',
+  },
+  {
+    id: 'ph-f-7', subject: 'physics', band: 'foundations', rarity: 'rare', emoji: '🥄',
+    title: 'Hot Spoon',
+    question: 'Why does a metal spoon left in hot soup become warm all the way up its handle?',
+    choices: ['The spoon makes its own heat', 'Heat travels (conducts) through the metal', 'The soup jumps onto the handle', 'It only feels warm, but is not'], answerIndex: 1,
+    explanation: 'Metal is a good conductor of heat — heat energy travels through it from the hot part to the cooler part.',
+    realWorldExample: 'This is exactly why cooking pots have wooden or plastic handles — those materials conduct heat poorly, so they stay cool to hold.',
+    funFact: 'Metal feels colder than wood at the same room temperature simply because it conducts heat away from your hand faster!',
+  },
 
   // Explorer (Class 3-5)
   {
@@ -93,6 +111,24 @@ export const physicsCards: Card[] = [
     explanation: 'Boiling adds enough heat energy for liquid water molecules to escape as gas (steam).',
     realWorldExample: 'A kettle whistling, or fog rising off a hot cup of tea, both show liquid turning to gas.',
     funFact: 'On top of Mount Everest, water boils at a much lower temperature because air pressure is lower!',
+  },
+  {
+    id: 'ph-e-6', subject: 'physics', band: 'explorer', rarity: 'common', emoji: '🔪',
+    title: 'Sharp vs Blunt',
+    question: 'Why does a sharp knife cut through food much more easily than a blunt one, using the same push?',
+    choices: ['Sharp knives are heavier', 'A sharp edge focuses force onto a tiny area, increasing pressure', 'Blunt knives are made of weaker metal', 'There is no real difference'], answerIndex: 1,
+    explanation: 'Pressure = force ÷ area. A sharp edge has a very small area, so the same force creates much higher pressure, cutting more easily.',
+    realWorldExample: 'This is also why drawing pins and needles have sharp points — to concentrate force into a tiny area to pierce through material.',
+    funFact: 'Snowshoes work on the opposite idea — spreading your weight over a large area to lower pressure, so you don\'t sink into snow!',
+  },
+  {
+    id: 'ph-e-7', subject: 'physics', band: 'explorer', rarity: 'epic', emoji: '🫗',
+    title: 'Oil on Water',
+    question: 'Why does cooking oil float on top of water instead of mixing in?',
+    choices: ['Oil is afraid of water', 'Oil is less dense than water', 'Oil is a solid', 'Water evaporates around oil'], answerIndex: 1,
+    explanation: 'Oil has a lower density than water, meaning it weighs less for the same volume, so it floats on top instead of sinking or mixing.',
+    realWorldExample: 'This is exactly why oil spills in the ocean spread out as a floating layer on the sea surface instead of sinking.',
+    funFact: 'Density is also why a can of regular soda sinks in water, but a can of diet soda (with less sugar) often floats!',
   },
 
   // Builder (Class 6-8)
@@ -141,6 +177,24 @@ export const physicsCards: Card[] = [
     realWorldExample: 'Magnifying glasses, camera lenses, and eyeglasses for far-sightedness all use convex lenses.',
     funFact: 'Galileo used convex and concave lenses together to build one of the first telescopes!',
   },
+  {
+    id: 'ph-b-6', subject: 'physics', band: 'builder', rarity: 'rare', emoji: '🌊',
+    title: 'Pressure Underwater',
+    question: 'Why are dams built much thicker at the bottom than at the top?',
+    choices: ['To look nicer', 'Water pressure increases with depth, so the base must withstand much greater force', 'It saves construction material', 'Thickness has no real purpose'], answerIndex: 1,
+    explanation: 'Water pressure increases the deeper you go, so the bottom of a dam must be far stronger to hold back that much greater force.',
+    realWorldExample: 'Deep-sea submarines are built with extremely thick, rounded hulls for the same reason — to survive crushing pressure at depth.',
+    funFact: 'At the deepest point of the ocean (about 11 km down), pressure is over 1,000 times what you feel at the surface!',
+  },
+  {
+    id: 'ph-b-7', subject: 'physics', band: 'builder', rarity: 'legendary', emoji: '⏲️',
+    title: 'The Swinging Pendulum',
+    question: 'What mainly determines how long it takes a simple pendulum to swing back and forth once?',
+    choices: ['Its colour', 'The length of the pendulum', 'How heavy the bob is', 'The time of day'], answerIndex: 1,
+    explanation: 'A pendulum\'s swing time depends mainly on its length (longer swings take longer), not on the weight of the bob.',
+    realWorldExample: 'Old grandfather clocks use a pendulum of a precisely set length to tick at a steady, reliable rate.',
+    funFact: 'Galileo reportedly discovered this timing property by watching a swinging chandelier in a cathedral, using his own pulse to time it!',
+  },
 
   // Innovator (Class 9-10)
   {
@@ -187,5 +241,23 @@ export const physicsCards: Card[] = [
     explanation: 'The ISS and astronauts are continuously falling toward Earth but moving forward fast enough to keep missing it — orbiting.',
     realWorldExample: 'This is the same idea as throwing a ball so fast it never comes back down — just applied to a space station!',
     funFact: 'The ISS travels at about 28,000 km/h — fast enough to orbit Earth every 90 minutes!',
+  },
+  {
+    id: 'ph-i-6', subject: 'physics', band: 'innovator', rarity: 'rare', emoji: '☢️',
+    title: 'Nuclear Fission',
+    question: 'How do nuclear power plants generate electricity?',
+    choices: ['By burning uranium like coal', 'By splitting atomic nuclei to release heat, which boils water into steam to spin turbines', 'By using solar panels underground', 'By using extremely large batteries'], answerIndex: 1,
+    explanation: 'Nuclear fission splits heavy atoms (like uranium), releasing huge amounts of heat that boils water into steam, which spins turbines connected to generators.',
+    realWorldExample: 'Countries like France generate most of their electricity this way, producing large amounts of power without burning fossil fuels.',
+    funFact: 'Splitting just 1 kg of uranium releases roughly as much energy as burning about 2,700 tonnes of coal!',
+  },
+  {
+    id: 'ph-i-7', subject: 'physics', band: 'innovator', rarity: 'epic', emoji: '🚗',
+    title: 'Crumple Zones',
+    question: 'Why are modern car fronts designed to crumple and collapse during a crash, instead of staying perfectly rigid?',
+    choices: ['To make cars cheaper to build', 'To extend the collision time, reducing the force experienced by passengers', 'To make the car lighter', 'Crumpling is just an accident of design, not intentional'], answerIndex: 1,
+    explanation: "By Newton's laws, spreading a crash's force over more time (as the front crumples) reduces the peak force passengers feel, thanks to the impulse-momentum relationship.",
+    realWorldExample: 'This crumple-zone design, combined with seatbelts and airbags, is a major reason car crash survival rates have improved dramatically since the 1960s.',
+    funFact: 'Formula 1 cars use the same idea — their nose cones are designed to shatter apart on impact, absorbing crash energy away from the driver!',
   },
 ]

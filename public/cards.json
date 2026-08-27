@@ -1,0 +1,2894 @@
+{
+  "version": "2026-08-27",
+  "updatedAt": "2026-08-27T14:42:28.359Z",
+  "cards": [
+    {
+      "id": "ma-f-1",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🍎",
+      "title": "Counting Apples",
+      "question": "A fruit seller has 4 apples and buys 3 more. How many apples now?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "answerIndex": 1,
+      "explanation": "Adding means putting groups together and counting the total: 4 + 3 = 7.",
+      "realWorldExample": "Shopkeepers add up items all day — counting stock, billing customers, and restocking shelves.",
+      "funFact": "The \"+\" sign was first used in print in 1489!"
+    },
+    {
+      "id": "ma-f-2",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔺",
+      "title": "Shape Detective",
+      "question": "A slice of pizza (before it's cut round) and a road sign warning of danger both look like which shape?",
+      "choices": [
+        "Circle",
+        "Triangle",
+        "Square",
+        "Oval"
+      ],
+      "answerIndex": 1,
+      "explanation": "A triangle has 3 straight sides and 3 corners.",
+      "realWorldExample": "Triangles are used in bridges and roofs because their shape makes them very strong and hard to bend.",
+      "funFact": "The Great Pyramid of Giza is basically 4 giant triangles meeting at a point!"
+    },
+    {
+      "id": "ma-f-3",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🪙",
+      "title": "Coin Count",
+      "question": "You have 10 one-rupee coins. How many groups of 2 can you make?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 2,
+      "explanation": "Splitting 10 into groups of 2 is an early form of division: 10 ÷ 2 = 5.",
+      "realWorldExample": "Sharing a packet of biscuits equally among friends uses the exact same idea.",
+      "funFact": "Division is really just \"fast subtraction\" done again and again!"
+    },
+    {
+      "id": "ma-f-4",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "⏰",
+      "title": "Reading Clocks",
+      "question": "When the short hand points to 3 and the long hand points to 12, what time is it?",
+      "choices": [
+        "12 o'clock",
+        "3 o'clock",
+        "9 o'clock",
+        "6 o'clock"
+      ],
+      "answerIndex": 1,
+      "explanation": "The short hand shows the hour, and the long hand at 12 means \"o'clock\" — exactly 3:00.",
+      "realWorldExample": "You use this every day to know when school starts, or when your favourite cartoon comes on!",
+      "funFact": "Before clocks, people told time using sundials and shadows."
+    },
+    {
+      "id": "ma-f-5",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "📏",
+      "title": "Bigger or Smaller",
+      "question": "Your pencil is 14 cm long and your eraser is 5 cm long. How much longer is the pencil?",
+      "choices": [
+        "9 cm",
+        "19 cm",
+        "5 cm",
+        "14 cm"
+      ],
+      "answerIndex": 0,
+      "explanation": "Comparing lengths uses subtraction: 14 − 5 = 9 cm.",
+      "realWorldExample": "Tailors subtract measurements like this every time they cut cloth to fit you.",
+      "funFact": "Ancient Egyptians measured length using their own forearms, called a \"cubit\"!"
+    },
+    {
+      "id": "ma-f-6",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🍬",
+      "title": "Odd One Out",
+      "question": "You have 7 candies and want to share them equally between 2 friends with none left over. Can you?",
+      "choices": [
+        "Yes, 3 each with none left",
+        "No, 7 is an odd number so one will be left over",
+        "Yes, always possible",
+        "No, you need exactly 10 candies"
+      ],
+      "answerIndex": 1,
+      "explanation": "Odd numbers like 7 cannot be split into two exactly equal whole groups — one candy will always be left over.",
+      "realWorldExample": "This is why sharing an odd number of sweets or seats among two people always ends with someone getting one extra or asking to split it.",
+      "funFact": "Every other counting number is odd or even, alternating forever — 1, 2, 3, 4, 5...!"
+    },
+    {
+      "id": "ma-f-7",
+      "subject": "maths",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🏁",
+      "title": "Who's First?",
+      "question": "In a race, Meera finishes before Raj, and Raj finishes before Sam. Who finishes in 2nd place?",
+      "choices": [
+        "Meera",
+        "Raj",
+        "Sam",
+        "It is a tie"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ordering positions (1st, 2nd, 3rd) is called using ordinal numbers — here the order is Meera, then Raj, then Sam.",
+      "realWorldExample": "Sports podiums, exam rank lists, and even queue positions at a shop all use this exact idea of ordering.",
+      "funFact": "The Olympics only give medals for 1st, 2nd, and 3rd place — gold, silver, and bronze!"
+    },
+    {
+      "id": "ma-e-1",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🍕",
+      "title": "Pizza Fractions",
+      "question": "A pizza is cut into 8 equal slices. You eat 3. What fraction is left?",
+      "choices": [
+        "3/8",
+        "5/8",
+        "8/3",
+        "1/2"
+      ],
+      "answerIndex": 1,
+      "explanation": "Whole = 8/8. Eaten = 3/8. Left = 8/8 − 3/8 = 5/8.",
+      "realWorldExample": "Recipes use fractions constantly — like needing 3/4 cup of flour for a cake.",
+      "funFact": "Ancient Egyptians used only \"unit fractions\" (like 1/2, 1/3) — no other kind!"
+    },
+    {
+      "id": "ma-e-2",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "🛒",
+      "title": "Shopping Change",
+      "question": "A notebook costs ₹35. You pay with a ₹50 note. How much change do you get?",
+      "choices": [
+        "₹5",
+        "₹15",
+        "₹25",
+        "₹20"
+      ],
+      "answerIndex": 1,
+      "explanation": "Change = amount paid − price = 50 − 35 = ₹15.",
+      "realWorldExample": "Cashiers calculate this instantly every time you buy something at a store.",
+      "funFact": "The rupee symbol ₹ was officially adopted by India only in 2010!"
+    },
+    {
+      "id": "ma-e-3",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "📐",
+      "title": "Perimeter Puzzle",
+      "question": "A rectangular garden is 6 m long and 4 m wide. What fence length is needed to go all around it?",
+      "choices": [
+        "10 m",
+        "20 m",
+        "24 m",
+        "12 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "Perimeter = 2 × (length + width) = 2 × (6 + 4) = 20 m.",
+      "realWorldExample": "Builders calculate perimeter to know how much fencing or boundary wall material to buy.",
+      "funFact": "A running track's inner lane is exactly 400 m — precisely measured perimeter!"
+    },
+    {
+      "id": "ma-e-4",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "📊",
+      "title": "Average Runs",
+      "question": "A cricketer scores 20, 30, and 40 runs in 3 matches. What is the average score?",
+      "choices": [
+        "30",
+        "25",
+        "35",
+        "90"
+      ],
+      "answerIndex": 0,
+      "explanation": "Average = total ÷ count = (20+30+40) ÷ 3 = 90 ÷ 3 = 30.",
+      "realWorldExample": "Sports commentators use batting/bowling averages to compare players all the time.",
+      "funFact": "Cricket's \"average\" statistic dates back to the 1700s in England!"
+    },
+    {
+      "id": "ma-e-5",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "legendary",
+      "emoji": "🗺️",
+      "title": "Map Scale",
+      "question": "On a map, 1 cm represents 5 km. How many real km does 4 cm on the map represent?",
+      "choices": [
+        "9 km",
+        "20 km",
+        "5 km",
+        "45 km"
+      ],
+      "answerIndex": 1,
+      "explanation": "Multiply the scale: 4 cm × 5 km/cm = 20 km.",
+      "realWorldExample": "GPS apps and paper maps both rely on scale to show huge distances on a small screen or page.",
+      "funFact": "The largest accurate scale map ever made was 1:1 — an actual size map of England (impossible to unfold)!"
+    },
+    {
+      "id": "ma-e-6",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "📊",
+      "title": "Reading a Rainfall Chart",
+      "question": "A bar graph shows rainfall of 20mm, 45mm, and 15mm over three days. Which day had the most rain?",
+      "choices": [
+        "Day 1",
+        "Day 2",
+        "Day 3",
+        "All the same"
+      ],
+      "answerIndex": 1,
+      "explanation": "On a bar graph, the tallest bar represents the largest value — here Day 2's 45mm bar is the tallest.",
+      "realWorldExample": "Weather reports, news channels, and school science projects all use bar graphs exactly like this to show data at a glance.",
+      "funFact": "The bar graph was invented by William Playfair in 1786 — he also invented the pie chart!"
+    },
+    {
+      "id": "ma-e-7",
+      "subject": "maths",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "✏️",
+      "title": "Packing Pencils",
+      "question": "A box holds 12 pencils. How many pencils are in 6 boxes?",
+      "choices": [
+        "18",
+        "48",
+        "72",
+        "60"
+      ],
+      "answerIndex": 2,
+      "explanation": "Multiplication is repeated addition: 12 pencils × 6 boxes = 72 pencils.",
+      "realWorldExample": "Shopkeepers use multiplication like this to quickly count stock arriving in sealed cartons.",
+      "funFact": "The multiplication symbol \"×\" was first used in a math book printed in 1631!"
+    },
+    {
+      "id": "ma-b-1",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "💸",
+      "title": "Discount Day",
+      "question": "A shirt costs ₹800 and has a 25% discount. What is the sale price?",
+      "choices": [
+        "₹600",
+        "₹700",
+        "₹200",
+        "₹750"
+      ],
+      "answerIndex": 0,
+      "explanation": "25% of 800 = 200. Sale price = 800 − 200 = ₹600.",
+      "realWorldExample": "Every \"SALE 25% OFF\" sign you see in a mall uses this exact calculation.",
+      "funFact": "The word \"percent\" comes from Latin \"per centum\" meaning \"by the hundred\"."
+    },
+    {
+      "id": "ma-b-2",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "⚖️",
+      "title": "Balancing Equations",
+      "question": "Solve for x: 3x + 5 = 20",
+      "choices": [
+        "x = 5",
+        "x = 3",
+        "x = 15",
+        "x = 25"
+      ],
+      "answerIndex": 0,
+      "explanation": "Subtract 5 from both sides: 3x = 15. Divide by 3: x = 5.",
+      "realWorldExample": "Engineers solve equations like this to find unknown quantities — like how much material or budget is needed.",
+      "funFact": "The \"=\" sign was invented in 1557 because the inventor was tired of writing \"is equal to\"!"
+    },
+    {
+      "id": "ma-b-3",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "📈",
+      "title": "Speed & Ratio",
+      "question": "A car travels 180 km in 3 hours. What is its speed?",
+      "choices": [
+        "60 km/h",
+        "90 km/h",
+        "45 km/h",
+        "183 km/h"
+      ],
+      "answerIndex": 0,
+      "explanation": "Speed = distance ÷ time = 180 ÷ 3 = 60 km/h.",
+      "realWorldExample": "Your car's speedometer, flight durations, and delivery time estimates all use this ratio.",
+      "funFact": "Light travels at about 300,000 km per SECOND — a billion times faster than a car!"
+    },
+    {
+      "id": "ma-b-4",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🎲",
+      "title": "Probability Roll",
+      "question": "What is the probability of rolling a 4 on a standard 6-sided die?",
+      "choices": [
+        "1/6",
+        "1/4",
+        "4/6",
+        "1/2"
+      ],
+      "answerIndex": 0,
+      "explanation": "There is 1 favourable outcome (rolling a 4) out of 6 possible outcomes: 1/6.",
+      "realWorldExample": "Weather forecasts (\"70% chance of rain\") and insurance companies both rely on probability.",
+      "funFact": "Casinos and lotteries are entirely built on the mathematics of probability!"
+    },
+    {
+      "id": "ma-b-5",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "📦",
+      "title": "Volume of a Box",
+      "question": "A box is 4 cm long, 3 cm wide, and 5 cm tall. What is its volume?",
+      "choices": [
+        "60 cm³",
+        "12 cm³",
+        "20 cm³",
+        "35 cm³"
+      ],
+      "answerIndex": 0,
+      "explanation": "Volume of a cuboid = length × width × height = 4 × 3 × 5 = 60 cm³.",
+      "realWorldExample": "Packaging companies compute volume to fit the most boxes into a delivery truck.",
+      "funFact": "A standard shipping container holds about 33 cubic metres — that's 33 million cm³!"
+    },
+    {
+      "id": "ma-b-6",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🍰",
+      "title": "Scaling a Recipe",
+      "question": "A cake recipe for 4 people needs 200g of flour. How much flour is needed for 10 people?",
+      "choices": [
+        "400g",
+        "500g",
+        "600g",
+        "250g"
+      ],
+      "answerIndex": 1,
+      "explanation": "This uses ratio/proportion: 200g ÷ 4 people = 50g per person, so 10 people need 50 × 10 = 500g.",
+      "realWorldExample": "Bakers and chefs scale recipes up or down this exact way when cooking for more or fewer guests.",
+      "funFact": "Professional kitchens use ratio recipes (like \"1 part sugar to 2 parts flour\") so a dish scales perfectly to any size!"
+    },
+    {
+      "id": "ma-b-7",
+      "subject": "maths",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🌡️",
+      "title": "Below Zero",
+      "question": "The temperature is -3°C at night and rises by 8°C by noon. What is the noon temperature?",
+      "choices": [
+        "5°C",
+        "11°C",
+        "-11°C",
+        "8°C"
+      ],
+      "answerIndex": 0,
+      "explanation": "Adding a positive number to a negative one: -3 + 8 = 5°C.",
+      "realWorldExample": "Weather reports in cold countries use negative numbers constantly, and pilots calculate temperature changes at altitude the same way.",
+      "funFact": "The coldest temperature ever recorded on Earth was -89.2°C, in Antarctica!"
+    },
+    {
+      "id": "ma-i-1",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "📶",
+      "title": "Signal Height",
+      "question": "A mobile tower casts a shadow of 30 m when the sun's angle gives a shadow-to-height ratio of 1:2. How tall is the tower?",
+      "choices": [
+        "15 m",
+        "60 m",
+        "30 m",
+        "45 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "If shadow : height = 1 : 2, then height = 2 × shadow = 2 × 30 = 60 m.",
+      "realWorldExample": "Surveyors use similar-triangle ratios (trigonometry) to measure towers and mountains without climbing them.",
+      "funFact": "The ancient Greek Thales measured the Great Pyramid's height this exact way, using shadows!"
+    },
+    {
+      "id": "ma-i-2",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🚀",
+      "title": "Quadratic Launch",
+      "question": "A ball's height follows h = -x² + 4x. At what value of x does it hit the ground again (h=0, x≠0)?",
+      "choices": [
+        "x = 2",
+        "x = 4",
+        "x = 1",
+        "x = 8"
+      ],
+      "answerIndex": 1,
+      "explanation": "Set -x² + 4x = 0 → x(4 - x) = 0 → x = 0 or x = 4. The ball lands at x = 4.",
+      "realWorldExample": "Rocket and projectile engineers use quadratic equations to predict landing points.",
+      "funFact": "NASA still uses parabolic (quadratic) paths to plan how spacecraft re-enter the atmosphere!"
+    },
+    {
+      "id": "ma-i-3",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "💹",
+      "title": "Compound Interest",
+      "question": "₹1000 is invested at 10% compound interest per year. What is it worth after 2 years?",
+      "choices": [
+        "₹1100",
+        "₹1200",
+        "₹1210",
+        "₹1000"
+      ],
+      "answerIndex": 2,
+      "explanation": "Year 1: 1000 × 1.10 = 1100. Year 2: 1100 × 1.10 = 1210.",
+      "realWorldExample": "Bank savings accounts, loans, and even population growth models use compound interest formulas.",
+      "funFact": "Albert Einstein reportedly called compound interest \"the eighth wonder of the world\"!"
+    },
+    {
+      "id": "ma-i-4",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "🧮",
+      "title": "Data Spread",
+      "question": "Which measure tells you how \"spread out\" a set of exam scores is?",
+      "choices": [
+        "Mean",
+        "Mode",
+        "Standard deviation",
+        "Median"
+      ],
+      "answerIndex": 2,
+      "explanation": "Standard deviation measures how far data points typically are from the average.",
+      "realWorldExample": "Quality control in factories uses standard deviation to check if products are consistently sized.",
+      "funFact": "Standard deviation is why exam results are often shown as a \"bell curve\"!"
+    },
+    {
+      "id": "ma-i-5",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "legendary",
+      "emoji": "🔐",
+      "title": "Prime Power",
+      "question": "Which of these numbers is prime (only divisible by 1 and itself)?",
+      "choices": [
+        "21",
+        "27",
+        "29",
+        "33"
+      ],
+      "answerIndex": 2,
+      "explanation": "29 cannot be divided evenly by any number except 1 and 29 — it is prime.",
+      "realWorldExample": "Huge prime numbers secretly protect your online banking and messages through encryption.",
+      "funFact": "The largest known prime number has over 41 million digits!"
+    },
+    {
+      "id": "ma-i-6",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🪜",
+      "title": "Pythagoras's Ladder",
+      "question": "A 5m ladder leans against a wall with its base 3m from the wall. How high up the wall does it reach?",
+      "choices": [
+        "2 m",
+        "4 m",
+        "8 m",
+        "6 m"
+      ],
+      "answerIndex": 1,
+      "explanation": "By the Pythagorean theorem, height² + 3² = 5², so height² = 25 − 9 = 16, giving height = 4m.",
+      "realWorldExample": "Builders and electricians use exactly this calculation to check a ladder is placed at a safe, stable angle.",
+      "funFact": "The 3-4-5 triangle is so useful that ancient Egyptian builders used a knotted rope with those exact spacings to make perfect right angles!"
+    },
+    {
+      "id": "ma-i-7",
+      "subject": "maths",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🦠",
+      "title": "Exponential Spread",
+      "question": "If a rumour is told to 2 new people every hour, and each of those tells 2 more the next hour, what kind of growth is this?",
+      "choices": [
+        "Linear growth",
+        "Exponential growth",
+        "No growth at all",
+        "Negative growth"
+      ],
+      "answerIndex": 1,
+      "explanation": "Exponential growth means the quantity multiplies by a fixed factor each step, growing extremely fast — very different from adding a fixed amount each time (linear growth).",
+      "realWorldExample": "This is exactly how viral social media posts, chain messages, and disease outbreaks can spread shockingly fast from a small start.",
+      "funFact": "Starting from just 1 person and doubling every day, you would pass 1 million people in only 20 days!"
+    },
+    {
+      "id": "ph-f-1",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🛝",
+      "title": "Push and Pull",
+      "question": "To open a door, do you usually push it or pull it?",
+      "choices": [
+        "Only push",
+        "Only pull",
+        "Push or pull depending on the door",
+        "Neither"
+      ],
+      "answerIndex": 2,
+      "explanation": "A push and a pull are both forces — they make things move, stop, or change direction.",
+      "realWorldExample": "Swings, doors, and shopping trolleys all move because of pushes and pulls.",
+      "funFact": "Even a magnet pulling a paperclip is an invisible force at work!"
+    },
+    {
+      "id": "ph-f-2",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🌑",
+      "title": "Shadow Play",
+      "question": "What do you need to make a shadow?",
+      "choices": [
+        "Water",
+        "Light blocked by an object",
+        "Wind",
+        "Sound"
+      ],
+      "answerIndex": 1,
+      "explanation": "A shadow forms when an object blocks light from reaching a surface.",
+      "realWorldExample": "Sundials, shadow puppet shows, and even your own shadow at the park use this idea.",
+      "funFact": "Your shadow is shortest at noon when the sun is directly overhead!"
+    },
+    {
+      "id": "ph-f-3",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🧲",
+      "title": "Magnet Magic",
+      "question": "Which of these objects would a magnet attract?",
+      "choices": [
+        "A plastic spoon",
+        "A paper clip",
+        "A wooden pencil",
+        "A rubber ball"
+      ],
+      "answerIndex": 1,
+      "explanation": "Magnets attract certain metals like iron and steel — a paper clip is usually made of steel.",
+      "realWorldExample": "Fridge magnets, compasses, and recycling machines that sort metal all use magnetism.",
+      "funFact": "The Earth itself is a giant magnet — that's why compasses always point north!"
+    },
+    {
+      "id": "ph-f-4",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🧊",
+      "title": "Melting Ice",
+      "question": "What happens to an ice cube left out on a warm table?",
+      "choices": [
+        "It turns into a rock",
+        "It melts into water",
+        "It disappears completely",
+        "It gets colder"
+      ],
+      "answerIndex": 1,
+      "explanation": "Heat from the warm air makes the solid ice change into liquid water — this is called melting.",
+      "realWorldExample": "This is exactly why ice cream melts fast on a hot day if you don't eat it quickly!",
+      "funFact": "Water is one of the few substances where its solid form (ice) floats on its liquid form!"
+    },
+    {
+      "id": "ph-f-5",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "🔊",
+      "title": "Sound Travels",
+      "question": "How does sound reach your ears when someone claps?",
+      "choices": [
+        "Through light rays",
+        "Through vibrations in the air",
+        "It teleports",
+        "Through smell"
+      ],
+      "answerIndex": 1,
+      "explanation": "A clap makes the air vibrate, and those vibrations travel to your ear as sound.",
+      "realWorldExample": "This is why you can hear a friend talking across the room, and why drums make a \"boom\".",
+      "funFact": "Sound cannot travel in space because there is no air to vibrate!"
+    },
+    {
+      "id": "ph-f-6",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🎈",
+      "title": "Stretchy Things",
+      "question": "What happens to a rubber band when you stop stretching it?",
+      "choices": [
+        "It stays stretched forever",
+        "It springs back to its original shape",
+        "It breaks every time",
+        "It turns to liquid"
+      ],
+      "answerIndex": 1,
+      "explanation": "An elastic material like rubber stretches under force but springs back to its original shape once you let go.",
+      "realWorldExample": "Rubber bands, elastic waistbands, and trampolines all rely on this springing-back property.",
+      "funFact": "A trampoline's bounce comes from its springs and fabric stretching and snapping back super fast!"
+    },
+    {
+      "id": "ph-f-7",
+      "subject": "physics",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🥄",
+      "title": "Hot Spoon",
+      "question": "Why does a metal spoon left in hot soup become warm all the way up its handle?",
+      "choices": [
+        "The spoon makes its own heat",
+        "Heat travels (conducts) through the metal",
+        "The soup jumps onto the handle",
+        "It only feels warm, but is not"
+      ],
+      "answerIndex": 1,
+      "explanation": "Metal is a good conductor of heat — heat energy travels through it from the hot part to the cooler part.",
+      "realWorldExample": "This is exactly why cooking pots have wooden or plastic handles — those materials conduct heat poorly, so they stay cool to hold.",
+      "funFact": "Metal feels colder than wood at the same room temperature simply because it conducts heat away from your hand faster!"
+    },
+    {
+      "id": "ph-e-1",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "⚙️",
+      "title": "Simple Machines",
+      "question": "A seesaw at the park is an example of which simple machine?",
+      "choices": [
+        "Pulley",
+        "Lever",
+        "Wheel and axle",
+        "Screw"
+      ],
+      "answerIndex": 1,
+      "explanation": "A lever pivots around a fixed point (fulcrum) to lift a load — exactly like a seesaw.",
+      "realWorldExample": "Scissors, bottle openers, and crowbars are all levers used in everyday life.",
+      "funFact": "Archimedes said, \"Give me a lever long enough and I can move the Earth!\""
+    },
+    {
+      "id": "ph-e-2",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "🌈",
+      "title": "Rainbow Science",
+      "question": "A rainbow appears when sunlight passes through what?",
+      "choices": [
+        "Dust",
+        "Raindrops",
+        "Smoke",
+        "Glass windows only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Raindrops split (refract) white sunlight into its rainbow of colours.",
+      "realWorldExample": "You can make a mini rainbow at home using a garden hose spray on a sunny day.",
+      "funFact": "A rainbow is actually a full circle — from the ground we only see the top arc!"
+    },
+    {
+      "id": "ph-e-3",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🎈",
+      "title": "Floating and Sinking",
+      "question": "Why does a helium balloon float up in the air?",
+      "choices": [
+        "Helium is lighter than air",
+        "The balloon is magic",
+        "It is pushed by wind only",
+        "It is warm"
+      ],
+      "answerIndex": 0,
+      "explanation": "Helium gas is less dense than the surrounding air, so the balloon rises.",
+      "realWorldExample": "Weather balloons and blimps use lighter-than-air gases to float high in the sky.",
+      "funFact": "A regular party balloon filled with your breath sinks — because your breath is mostly heavier gases!"
+    },
+    {
+      "id": "ph-e-4",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🚲",
+      "title": "Friction Force",
+      "question": "Why do bicycle brakes make the wheel stop?",
+      "choices": [
+        "Gravity increases",
+        "Friction between brake pad and wheel",
+        "The wheel gets lighter",
+        "Magnetism"
+      ],
+      "answerIndex": 1,
+      "explanation": "The brake pad rubs against the wheel, and friction converts motion into heat, slowing it down.",
+      "realWorldExample": "Car brakes, shoe soles gripping the floor, and even matchsticks lighting all use friction.",
+      "funFact": "Without friction, you wouldn't even be able to walk — your feet would just slide!"
+    },
+    {
+      "id": "ph-e-5",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "legendary",
+      "emoji": "🌡️",
+      "title": "States of Matter",
+      "question": "When water boils and turns to steam, which state change is happening?",
+      "choices": [
+        "Liquid to gas",
+        "Solid to liquid",
+        "Gas to solid",
+        "Liquid to solid"
+      ],
+      "answerIndex": 0,
+      "explanation": "Boiling adds enough heat energy for liquid water molecules to escape as gas (steam).",
+      "realWorldExample": "A kettle whistling, or fog rising off a hot cup of tea, both show liquid turning to gas.",
+      "funFact": "On top of Mount Everest, water boils at a much lower temperature because air pressure is lower!"
+    },
+    {
+      "id": "ph-e-6",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🔪",
+      "title": "Sharp vs Blunt",
+      "question": "Why does a sharp knife cut through food much more easily than a blunt one, using the same push?",
+      "choices": [
+        "Sharp knives are heavier",
+        "A sharp edge focuses force onto a tiny area, increasing pressure",
+        "Blunt knives are made of weaker metal",
+        "There is no real difference"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pressure = force ÷ area. A sharp edge has a very small area, so the same force creates much higher pressure, cutting more easily.",
+      "realWorldExample": "This is also why drawing pins and needles have sharp points — to concentrate force into a tiny area to pierce through material.",
+      "funFact": "Snowshoes work on the opposite idea — spreading your weight over a large area to lower pressure, so you don't sink into snow!"
+    },
+    {
+      "id": "ph-e-7",
+      "subject": "physics",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🫗",
+      "title": "Oil on Water",
+      "question": "Why does cooking oil float on top of water instead of mixing in?",
+      "choices": [
+        "Oil is afraid of water",
+        "Oil is less dense than water",
+        "Oil is a solid",
+        "Water evaporates around oil"
+      ],
+      "answerIndex": 1,
+      "explanation": "Oil has a lower density than water, meaning it weighs less for the same volume, so it floats on top instead of sinking or mixing.",
+      "realWorldExample": "This is exactly why oil spills in the ocean spread out as a floating layer on the sea surface instead of sinking.",
+      "funFact": "Density is also why a can of regular soda sinks in water, but a can of diet soda (with less sugar) often floats!"
+    },
+    {
+      "id": "ph-b-1",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🏋️",
+      "title": "Newton's First Law",
+      "question": "A ball rolling on a frictionless floor would keep moving forever unless...",
+      "choices": [
+        "It gets tired",
+        "A force acts on it",
+        "It runs out of colour",
+        "Time stops"
+      ],
+      "answerIndex": 1,
+      "explanation": "Newton's First Law: an object stays at rest or in motion unless acted on by an external force.",
+      "realWorldExample": "This is why you jerk forward in a car that suddenly brakes — your body wants to keep moving.",
+      "funFact": "Seatbelts exist specifically to provide the force that stops your body from this exact effect!"
+    },
+    {
+      "id": "ph-b-2",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🔋",
+      "title": "Energy Conversion",
+      "question": "A solar panel converts sunlight into which form of energy?",
+      "choices": [
+        "Sound energy",
+        "Electrical energy",
+        "Chemical energy only",
+        "Nuclear energy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Solar panels use the photovoltaic effect to convert light energy directly into electrical energy.",
+      "realWorldExample": "Solar-powered calculators, streetlights, and rooftop panels all rely on this conversion.",
+      "funFact": "The International Space Station is powered almost entirely by giant solar panel wings!"
+    },
+    {
+      "id": "ph-b-3",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "🏎️",
+      "title": "Force = Mass × Acceleration",
+      "question": "If you push a shopping cart with the same force, which is easier to speed up — an empty cart or a full one?",
+      "choices": [
+        "Full cart",
+        "Empty cart",
+        "Both the same",
+        "Depends on colour"
+      ],
+      "answerIndex": 1,
+      "explanation": "Newton's Second Law: F = ma. With less mass, the same force produces greater acceleration.",
+      "realWorldExample": "This is why an empty truck accelerates faster than a fully loaded one with the same engine power.",
+      "funFact": "Formula 1 cars are built ultra-light for exactly this reason — less mass, faster acceleration!"
+    },
+    {
+      "id": "ph-b-4",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🚀",
+      "title": "Newton's Third Law",
+      "question": "A rocket launches upward by pushing gas downward. This is an example of...",
+      "choices": [
+        "Gravity",
+        "Every action has an equal and opposite reaction",
+        "Friction",
+        "Magnetism"
+      ],
+      "answerIndex": 1,
+      "explanation": "Newton's Third Law: the rocket pushes gas down, and the gas pushes the rocket up with equal force.",
+      "realWorldExample": "Swimming works the same way — you push water backward, and it pushes you forward.",
+      "funFact": "A squid actually \"jets\" through water using this same action-reaction principle!"
+    },
+    {
+      "id": "ph-b-5",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "🔭",
+      "title": "Reflection and Lenses",
+      "question": "What type of lens is used in a magnifying glass to make things look bigger?",
+      "choices": [
+        "Concave lens",
+        "Convex lens",
+        "Flat glass",
+        "Mirror"
+      ],
+      "answerIndex": 1,
+      "explanation": "A convex lens bends light rays inward, magnifying the image of an object.",
+      "realWorldExample": "Magnifying glasses, camera lenses, and eyeglasses for far-sightedness all use convex lenses.",
+      "funFact": "Galileo used convex and concave lenses together to build one of the first telescopes!"
+    },
+    {
+      "id": "ph-b-6",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🌊",
+      "title": "Pressure Underwater",
+      "question": "Why are dams built much thicker at the bottom than at the top?",
+      "choices": [
+        "To look nicer",
+        "Water pressure increases with depth, so the base must withstand much greater force",
+        "It saves construction material",
+        "Thickness has no real purpose"
+      ],
+      "answerIndex": 1,
+      "explanation": "Water pressure increases the deeper you go, so the bottom of a dam must be far stronger to hold back that much greater force.",
+      "realWorldExample": "Deep-sea submarines are built with extremely thick, rounded hulls for the same reason — to survive crushing pressure at depth.",
+      "funFact": "At the deepest point of the ocean (about 11 km down), pressure is over 1,000 times what you feel at the surface!"
+    },
+    {
+      "id": "ph-b-7",
+      "subject": "physics",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "⏲️",
+      "title": "The Swinging Pendulum",
+      "question": "What mainly determines how long it takes a simple pendulum to swing back and forth once?",
+      "choices": [
+        "Its colour",
+        "The length of the pendulum",
+        "How heavy the bob is",
+        "The time of day"
+      ],
+      "answerIndex": 1,
+      "explanation": "A pendulum's swing time depends mainly on its length (longer swings take longer), not on the weight of the bob.",
+      "realWorldExample": "Old grandfather clocks use a pendulum of a precisely set length to tick at a steady, reliable rate.",
+      "funFact": "Galileo reportedly discovered this timing property by watching a swinging chandelier in a cathedral, using his own pulse to time it!"
+    },
+    {
+      "id": "ph-i-1",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "⚡",
+      "title": "Work and Power",
+      "question": "Two people lift identical boxes to the same height, but one does it faster. Who has more power?",
+      "choices": [
+        "The slower one",
+        "The faster one",
+        "Both equal",
+        "Neither has power"
+      ],
+      "answerIndex": 1,
+      "explanation": "Power = Work ÷ Time. Doing the same work in less time means greater power.",
+      "realWorldExample": "This is why a sports car engine (high power) can accelerate faster than a truck engine doing the same work.",
+      "funFact": "The unit \"horsepower\" was coined by James Watt to compare steam engines to actual horses!"
+    },
+    {
+      "id": "ph-i-2",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🌊",
+      "title": "Wave Frequency",
+      "question": "A siren sounds higher pitched as an ambulance approaches you and lower as it drives away. What is this called?",
+      "choices": [
+        "Reflection",
+        "Doppler effect",
+        "Diffraction",
+        "Refraction"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Doppler effect happens because sound waves compress as the source approaches and stretch as it moves away.",
+      "realWorldExample": "Police radar guns and weather radar (for storms) both use the Doppler effect to measure speed.",
+      "funFact": "The Doppler effect also happens with light — it helps astronomers tell if stars are moving toward or away from us!"
+    },
+    {
+      "id": "ph-i-3",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🌡️",
+      "title": "Laws of Thermodynamics",
+      "question": "Why does a hot cup of tea eventually cool down to room temperature, but a cold glass of water never spontaneously boils itself?",
+      "choices": [
+        "Coincidence",
+        "Heat naturally flows from hot to cold",
+        "Water avoids heat",
+        "Gravity pulls heat down"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Second Law of Thermodynamics states heat flows naturally from a hotter object to a colder one, not the reverse.",
+      "realWorldExample": "This is exactly why refrigerators need to do extra work (using electricity) to pump heat out against this natural flow.",
+      "funFact": "This law is also why perpetual motion machines are physically impossible!"
+    },
+    {
+      "id": "ph-i-4",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "💡",
+      "title": "Electromagnetic Spectrum",
+      "question": "Which of these is NOT part of the electromagnetic spectrum?",
+      "choices": [
+        "X-rays",
+        "Radio waves",
+        "Sound waves",
+        "Ultraviolet light"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sound waves are mechanical vibrations needing a medium; electromagnetic waves (light, X-rays, radio) can travel through vacuum.",
+      "realWorldExample": "Wi-Fi, microwaves for cooking, and hospital X-ray machines all use different parts of this same spectrum.",
+      "funFact": "Visible light — everything you can see — is less than 1% of the entire electromagnetic spectrum!"
+    },
+    {
+      "id": "ph-i-5",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "legendary",
+      "emoji": "🪐",
+      "title": "Gravitational Pull",
+      "question": "Why do astronauts float inside the International Space Station even though Earth's gravity still acts on them there?",
+      "choices": [
+        "There is no gravity in space",
+        "They are in constant free-fall around Earth",
+        "They wear anti-gravity suits",
+        "The station has no mass"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ISS and astronauts are continuously falling toward Earth but moving forward fast enough to keep missing it — orbiting.",
+      "realWorldExample": "This is the same idea as throwing a ball so fast it never comes back down — just applied to a space station!",
+      "funFact": "The ISS travels at about 28,000 km/h — fast enough to orbit Earth every 90 minutes!"
+    },
+    {
+      "id": "ph-i-6",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "☢️",
+      "title": "Nuclear Fission",
+      "question": "How do nuclear power plants generate electricity?",
+      "choices": [
+        "By burning uranium like coal",
+        "By splitting atomic nuclei to release heat, which boils water into steam to spin turbines",
+        "By using solar panels underground",
+        "By using extremely large batteries"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nuclear fission splits heavy atoms (like uranium), releasing huge amounts of heat that boils water into steam, which spins turbines connected to generators.",
+      "realWorldExample": "Countries like France generate most of their electricity this way, producing large amounts of power without burning fossil fuels.",
+      "funFact": "Splitting just 1 kg of uranium releases roughly as much energy as burning about 2,700 tonnes of coal!"
+    },
+    {
+      "id": "ph-i-7",
+      "subject": "physics",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🚗",
+      "title": "Crumple Zones",
+      "question": "Why are modern car fronts designed to crumple and collapse during a crash, instead of staying perfectly rigid?",
+      "choices": [
+        "To make cars cheaper to build",
+        "To extend the collision time, reducing the force experienced by passengers",
+        "To make the car lighter",
+        "Crumpling is just an accident of design, not intentional"
+      ],
+      "answerIndex": 1,
+      "explanation": "By Newton's laws, spreading a crash's force over more time (as the front crumples) reduces the peak force passengers feel, thanks to the impulse-momentum relationship.",
+      "realWorldExample": "This crumple-zone design, combined with seatbelts and airbags, is a major reason car crash survival rates have improved dramatically since the 1960s.",
+      "funFact": "Formula 1 cars use the same idea — their nose cones are designed to shatter apart on impact, absorbing crash energy away from the driver!"
+    },
+    {
+      "id": "el-f-1",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔦",
+      "title": "Torch Power",
+      "question": "What makes a torch light up when you press its switch?",
+      "choices": [
+        "Magic",
+        "A battery sending electricity to the bulb",
+        "Sunlight stored inside",
+        "Wind power"
+      ],
+      "answerIndex": 1,
+      "explanation": "The battery stores energy and pushes electricity through the switch to light the bulb.",
+      "realWorldExample": "Every torch, remote control, and toy car uses a battery this same way.",
+      "funFact": "The first battery was invented in 1800 by Alessandro Volta — that's why we call the unit \"volt\"!"
+    },
+    {
+      "id": "el-f-2",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔌",
+      "title": "Switch It On",
+      "question": "What does a switch do in an electric circuit?",
+      "choices": [
+        "Makes electricity faster",
+        "Opens or closes the path for electricity",
+        "Changes the color of light",
+        "Creates batteries"
+      ],
+      "answerIndex": 1,
+      "explanation": "A switch either connects (closes) or breaks (opens) the circuit, turning the device on or off.",
+      "realWorldExample": "Every light switch on your wall works exactly this way.",
+      "funFact": "The first practical light switch was patented in 1884!"
+    },
+    {
+      "id": "el-f-3",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🧤",
+      "title": "Conductors vs Insulators",
+      "question": "Which material would you NOT want touching a live electric wire?",
+      "choices": [
+        "Rubber glove",
+        "Your bare hand",
+        "Plastic tool",
+        "Wooden stick"
+      ],
+      "answerIndex": 1,
+      "explanation": "Your body (with moisture and salts) conducts electricity well, so bare hands are dangerous near live wires.",
+      "realWorldExample": "Electricians wear rubber gloves and use plastic-handled tools because rubber and plastic are insulators.",
+      "funFact": "Birds can safely sit on a single power line because electricity always looks for the easiest path — through both feet, not through the bird's body!"
+    },
+    {
+      "id": "el-f-4",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔋",
+      "title": "Battery Basics",
+      "question": "What happens to a torch when its battery runs out?",
+      "choices": [
+        "It gets brighter",
+        "It stops lighting up",
+        "It changes color",
+        "It gets bigger"
+      ],
+      "answerIndex": 1,
+      "explanation": "A battery stores a limited amount of energy — once used up, it can no longer push electricity through the circuit.",
+      "realWorldExample": "This is why your TV remote stops working until you replace its batteries.",
+      "funFact": "Rechargeable batteries can be \"refilled\" with energy hundreds of times!"
+    },
+    {
+      "id": "el-f-5",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "🔗",
+      "title": "Complete the Circuit",
+      "question": "For a bulb to light up, the wires must form what kind of path?",
+      "choices": [
+        "A broken path",
+        "A complete, unbroken loop",
+        "A very long path",
+        "No path needed"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electricity needs a complete, closed loop (circuit) from the battery, through the bulb, and back.",
+      "realWorldExample": "If a single wire in your string of fairy lights breaks, sometimes the whole string goes dark!",
+      "funFact": "The word \"circuit\" comes from a Latin word meaning \"to go around\"!"
+    },
+    {
+      "id": "el-f-6",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "♻️",
+      "title": "Reusable Power",
+      "question": "What is special about a rechargeable battery compared to a normal one-time-use battery?",
+      "choices": [
+        "It can be refilled with energy and used again many times",
+        "It never runs out at all",
+        "It only works with toys",
+        "It is always bigger"
+      ],
+      "answerIndex": 0,
+      "explanation": "A rechargeable battery can be plugged into a charger to refill its stored energy, so it can be used hundreds of times instead of being thrown away.",
+      "realWorldExample": "Phones, laptops, and electric cars all use rechargeable batteries so you don't need to buy new ones constantly.",
+      "funFact": "Using rechargeable batteries instead of disposable ones helps reduce a huge amount of battery waste every year!"
+    },
+    {
+      "id": "el-f-7",
+      "subject": "electronics",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "📺",
+      "title": "Invisible Remote Signal",
+      "question": "How does a TV remote control tell the TV to change channels without any wires?",
+      "choices": [
+        "It shouts a secret code",
+        "It sends an invisible infrared light signal",
+        "It uses magic",
+        "It pushes air toward the TV"
+      ],
+      "answerIndex": 1,
+      "explanation": "A TV remote sends a pattern of invisible infrared light pulses that a sensor on the TV detects and understands as a command.",
+      "realWorldExample": "This is why a remote must usually point roughly at the TV to work — infrared light travels in a fairly straight line.",
+      "funFact": "You can often see a remote's infrared light flashing if you look at its bulb through a phone camera — infrared is invisible to human eyes but not to most camera sensors!"
+    },
+    {
+      "id": "el-e-1",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "➡️",
+      "title": "Series Circuits",
+      "question": "In a series circuit with two bulbs, what happens if one bulb burns out?",
+      "choices": [
+        "Only that bulb goes dark",
+        "Both bulbs go dark",
+        "Both get brighter",
+        "Nothing changes"
+      ],
+      "answerIndex": 1,
+      "explanation": "In a series circuit, there is only one path — if it breaks anywhere, current stops flowing everywhere.",
+      "realWorldExample": "Old-style Christmas lights were wired in series — one bulb dies and the whole string goes out!",
+      "funFact": "Modern fairy lights use parallel wiring specifically to avoid this problem."
+    },
+    {
+      "id": "el-e-2",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "⏸️",
+      "title": "Parallel Circuits",
+      "question": "Why are the lights in your house wired in parallel, not series?",
+      "choices": [
+        "So one broken light doesn't turn off all the others",
+        "It uses less wire",
+        "It looks neater",
+        "It is required by law only"
+      ],
+      "answerIndex": 0,
+      "explanation": "In a parallel circuit, each device has its own path, so one failing doesn't affect the others.",
+      "realWorldExample": "This is why turning off your bedroom light doesn't switch off the kitchen light too.",
+      "funFact": "Your home's entire electrical wiring is one giant parallel circuit!"
+    },
+    {
+      "id": "el-e-3",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🧭",
+      "title": "Electromagnets",
+      "question": "What can turn a plain iron nail into a temporary magnet?",
+      "choices": [
+        "Painting it red",
+        "Wrapping it with coiled wire carrying electric current",
+        "Freezing it",
+        "Shouting at it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Coiling a current-carrying wire around iron creates a magnetic field — an electromagnet.",
+      "realWorldExample": "Junkyard cranes use giant electromagnets to lift and drop scrap cars and metal.",
+      "funFact": "You can switch an electromagnet off just by cutting the electricity — unlike a regular magnet!"
+    },
+    {
+      "id": "el-e-4",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🌡️",
+      "title": "Sensors All Around",
+      "question": "A streetlight that turns on automatically at dusk is using what kind of sensor?",
+      "choices": [
+        "Sound sensor",
+        "Light sensor (LDR)",
+        "Temperature sensor",
+        "Motion sensor only"
+      ],
+      "answerIndex": 1,
+      "explanation": "A Light Dependent Resistor (LDR) senses darkness and completes the circuit to switch the light on.",
+      "realWorldExample": "Automatic streetlights, some garden lamps, and even your phone's auto-brightness use light sensors.",
+      "funFact": "LDRs are made from a material called cadmium sulfide that reacts to light!"
+    },
+    {
+      "id": "el-e-5",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "legendary",
+      "emoji": "🔧",
+      "title": "Fuses and Safety",
+      "question": "What is the job of a fuse in an electrical circuit?",
+      "choices": [
+        "Make the circuit brighter",
+        "Break the circuit if too much current flows, preventing fire",
+        "Store extra electricity",
+        "Make wires longer"
+      ],
+      "answerIndex": 1,
+      "explanation": "A fuse contains a thin wire that melts and breaks the circuit if current gets dangerously high, protecting devices and homes.",
+      "realWorldExample": "Your home's fuse box (or circuit breaker) protects all your appliances from electrical surges.",
+      "funFact": "Modern homes mostly use circuit breakers instead of fuses because they can be reset instead of replaced!"
+    },
+    {
+      "id": "el-e-6",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🌀",
+      "title": "Spinning Fans",
+      "question": "What makes an electric fan's blades spin when you switch it on?",
+      "choices": [
+        "A tiny electric motor converts electrical energy into spinning motion",
+        "The battery pushes the blades directly",
+        "Air pressure alone spins it",
+        "It uses magnets to freeze the air"
+      ],
+      "answerIndex": 0,
+      "explanation": "An electric motor uses electricity and magnetism together to create spinning (rotational) motion, turning the fan's blades.",
+      "realWorldExample": "Fans, washing machines, and electric toothbrushes all contain small motors doing this same job.",
+      "funFact": "A single large wind turbine works like a giant fan in reverse — wind spins the blades to generate electricity instead of the other way around!"
+    },
+    {
+      "id": "el-e-7",
+      "subject": "electronics",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🎈",
+      "title": "Static Cling",
+      "question": "Why does a balloon rubbed on your hair stick to a wall afterward?",
+      "choices": [
+        "The balloon becomes magnetic",
+        "Rubbing builds up static electric charge that attracts the wall",
+        "The wall is sticky",
+        "Air pressure pushes it there"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rubbing the balloon transfers electric charge onto its surface, and this static charge attracts it to the neutral wall.",
+      "realWorldExample": "This same static buildup is why your hair sometimes stands up after pulling off a wool sweater.",
+      "funFact": "Lightning is actually a giant, dramatic version of the same static electricity effect, built up inside storm clouds!"
+    },
+    {
+      "id": "el-b-1",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🌊",
+      "title": "Ohm's Law",
+      "question": "Using Ohm's Law (V = IR), if voltage is 12V and resistance is 4Ω, what is the current?",
+      "choices": [
+        "2 A",
+        "3 A",
+        "48 A",
+        "8 A"
+      ],
+      "answerIndex": 1,
+      "explanation": "Rearranging V = IR gives I = V/R = 12/4 = 3 A.",
+      "realWorldExample": "Electricians use Ohm's Law to safely calculate wiring and appliance ratings.",
+      "funFact": "Georg Ohm was so criticized for his theory in 1827 that he initially resigned from his teaching job!"
+    },
+    {
+      "id": "el-b-2",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🧲",
+      "title": "Resistors and Color Codes",
+      "question": "Why do circuits use resistors?",
+      "choices": [
+        "To increase voltage infinitely",
+        "To control/limit the flow of current",
+        "To store data",
+        "To generate light only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resistors limit current flow to protect components like LEDs from burning out.",
+      "realWorldExample": "Every LED circuit — from toy lights to TV remotes — includes a resistor to prevent the LED from getting too much current.",
+      "funFact": "Resistors use colored bands as a code so you can read their value without any equipment!"
+    },
+    {
+      "id": "el-b-3",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "💡",
+      "title": "LED Efficiency",
+      "question": "Why have LED bulbs largely replaced old incandescent bulbs in homes?",
+      "choices": [
+        "LEDs are heavier",
+        "LEDs use much less energy for the same brightness",
+        "LEDs are always red",
+        "Incandescent bulbs are illegal everywhere"
+      ],
+      "answerIndex": 1,
+      "explanation": "LEDs convert most electrical energy into light rather than wasted heat, making them far more efficient.",
+      "realWorldExample": "Switching your home to LED bulbs can cut lighting electricity costs by up to 80%.",
+      "funFact": "A modern LED bulb can last over 25,000 hours — nearly 3 years of continuous use!"
+    },
+    {
+      "id": "el-b-4",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🔋",
+      "title": "AC vs DC",
+      "question": "What type of current comes out of a standard household wall socket?",
+      "choices": [
+        "Direct Current (DC)",
+        "Alternating Current (AC)",
+        "Static current",
+        "No current, only voltage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Household power is Alternating Current (AC), which reverses direction many times per second, unlike a battery's steady DC.",
+      "realWorldExample": "This is why phone chargers contain an adapter — to convert wall AC power into the DC power your phone battery needs.",
+      "funFact": "The \"War of Currents\" in the 1880s between Edison (DC) and Tesla (AC) decided how we power our homes today — AC won!"
+    },
+    {
+      "id": "el-b-5",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "📡",
+      "title": "Transistors",
+      "question": "What is the main job of a transistor in electronic devices?",
+      "choices": [
+        "To act as a tiny switch or amplifier",
+        "To store water",
+        "To generate sound",
+        "To make wires stronger"
+      ],
+      "answerIndex": 0,
+      "explanation": "Transistors switch or amplify electronic signals, forming the building blocks of all modern digital devices.",
+      "realWorldExample": "Your smartphone contains billions of transistors packed onto a single chip smaller than a fingernail.",
+      "funFact": "The first transistor, built in 1947, was about the size of a hand — now billions fit on one chip!"
+    },
+    {
+      "id": "el-b-6",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "☀️",
+      "title": "Solar Power Banks",
+      "question": "A portable power bank with a solar panel charges your phone even without a wall socket. How?",
+      "choices": [
+        "It stores wind instead of electricity",
+        "The panel converts sunlight into electricity, which charges the power bank's internal battery",
+        "It uses the Sun's heat as fuel directly",
+        "It magically refills overnight"
+      ],
+      "answerIndex": 1,
+      "explanation": "A solar panel converts light energy into electrical energy, which charges the power bank's battery for later use, even away from mains power.",
+      "realWorldExample": "Hikers and campers use solar power banks and solar chargers to keep devices running far from any electrical outlet.",
+      "funFact": "Some solar-powered road signs and calculators have run for years without ever needing a replacement battery!"
+    },
+    {
+      "id": "el-b-7",
+      "subject": "electronics",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "📸",
+      "title": "Capacitors and Camera Flash",
+      "question": "Why can an old camera's flash light up so brightly and instantly, even though its battery is small?",
+      "choices": [
+        "The battery is secretly very powerful",
+        "A capacitor slowly stores charge, then releases it all at once in a sudden burst",
+        "The flash bulb makes its own electricity",
+        "It uses static electricity from the air"
+      ],
+      "answerIndex": 1,
+      "explanation": "A capacitor stores electrical charge over a short time and then discharges it almost instantly, delivering a burst of power much greater than the battery could give alone.",
+      "realWorldExample": "Defibrillators (used to restart a heart in emergencies) work the same way — slowly charging a capacitor, then releasing a powerful, controlled shock.",
+      "funFact": "Unlike batteries, capacitors can charge and discharge extremely quickly, which is why camera flashes recharge again within seconds!"
+    },
+    {
+      "id": "el-i-1",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "⚙️",
+      "title": "Semiconductors",
+      "question": "Why is silicon so important in modern electronics?",
+      "choices": [
+        "It is a perfect insulator",
+        "It is a semiconductor whose conductivity can be precisely controlled",
+        "It is the cheapest metal",
+        "It glows in the dark"
+      ],
+      "answerIndex": 1,
+      "explanation": "Silicon's conductivity can be finely tuned by adding impurities (doping), making it ideal for chips.",
+      "realWorldExample": "Every computer chip, smartphone processor, and solar panel relies on engineered silicon semiconductors.",
+      "funFact": "Silicon Valley in California is literally named after this element because of the chip industry based there!"
+    },
+    {
+      "id": "el-i-2",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🔢",
+      "title": "Logic Gates",
+      "question": "An AND logic gate outputs \"1\" (true) only when...",
+      "choices": [
+        "At least one input is 1",
+        "All inputs are 1",
+        "No inputs are 1",
+        "Exactly one input is 1"
+      ],
+      "answerIndex": 1,
+      "explanation": "An AND gate requires every input to be true (1) for the output to be true.",
+      "realWorldExample": "A car might only start (output) if both \"key turned\" AND \"seatbelt on\" are true — a real AND gate application.",
+      "funFact": "All computer processors are built from millions to billions of these simple logic gates combined!"
+    },
+    {
+      "id": "el-i-3",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "📶",
+      "title": "Analog vs Digital Signals",
+      "question": "What is the key difference between analog and digital signals?",
+      "choices": [
+        "Analog is silent, digital is loud",
+        "Analog varies continuously, digital uses discrete steps (0s and 1s)",
+        "Digital signals are always wireless",
+        "There is no real difference"
+      ],
+      "answerIndex": 1,
+      "explanation": "Analog signals vary smoothly like a dimmer switch, while digital signals use distinct on/off (binary) values.",
+      "realWorldExample": "Old vinyl records store analog sound waves directly, while streaming music is digital data (0s and 1s).",
+      "funFact": "Converting analog sound to digital thousands of times per second is called \"sampling\" — that's how MP3s are made!"
+    },
+    {
+      "id": "el-i-4",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "🔆",
+      "title": "Diodes and Rectifiers",
+      "question": "What does a diode do in a circuit?",
+      "choices": [
+        "Allows current to flow in only one direction",
+        "Stores electricity permanently",
+        "Blocks all current always",
+        "Makes current alternate faster"
+      ],
+      "answerIndex": 0,
+      "explanation": "A diode is a one-way valve for electric current, essential for converting AC to DC (rectification).",
+      "realWorldExample": "Every phone charger uses diodes to convert AC wall power into the DC power your phone needs.",
+      "funFact": "An LED (Light Emitting Diode) is a special diode that gives off light when current flows through it!"
+    },
+    {
+      "id": "el-i-5",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "legendary",
+      "emoji": "🛰️",
+      "title": "Kirchhoff's Laws",
+      "question": "Kirchhoff's Current Law states that at any junction in a circuit...",
+      "choices": [
+        "Current disappears",
+        "Total current entering equals total current leaving",
+        "Voltage always doubles",
+        "Resistance becomes zero"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kirchhoff's Current Law is based on conservation of charge — current can't be created or destroyed at a junction.",
+      "realWorldExample": "Engineers use this law to design complex circuit boards like the ones inside your laptop or gaming console.",
+      "funFact": "Gustav Kirchhoff formulated these laws in 1845 while still a student, at just 21 years old!"
+    },
+    {
+      "id": "el-i-6",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🧩",
+      "title": "Inside a Microchip",
+      "question": "A modern smartphone processor packs billions of transistors onto a chip smaller than a fingernail. What does this enable?",
+      "choices": [
+        "Nothing extra, it just looks impressive",
+        "Extremely fast, complex calculations in a tiny, low-power package",
+        "Only louder sound output",
+        "It mainly makes the phone heavier"
+      ],
+      "answerIndex": 1,
+      "explanation": "Packing billions of tiny transistors together lets a chip perform enormous numbers of calculations per second while staying small and energy-efficient.",
+      "realWorldExample": "This miniaturization is exactly why a phone in your pocket today is far more powerful than room-sized computers from the 1970s.",
+      "funFact": "The number of transistors on chips has roughly doubled every two years for decades — a trend called \"Moore's Law\"!"
+    },
+    {
+      "id": "el-i-7",
+      "subject": "electronics",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "📶",
+      "title": "Wireless Charging",
+      "question": "How does a wireless charging pad transfer power into a phone without any charging cable plugged in?",
+      "choices": [
+        "It uses Wi-Fi signals to send power",
+        "It creates a changing magnetic field that induces current in a coil inside the phone",
+        "It heats the phone to charge it",
+        "It uses sound waves to transfer energy"
+      ],
+      "answerIndex": 1,
+      "explanation": "The pad generates a changing magnetic field, which induces an electric current in a matching coil inside the phone — a principle called electromagnetic induction.",
+      "realWorldExample": "Electric toothbrushes and some electric cars use this same wireless, contact-free charging principle.",
+      "funFact": "This same induction principle was discovered by Michael Faraday nearly 200 years ago, in 1831!"
+    },
+    {
+      "id": "as-f-1",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "☀️",
+      "title": "Day and Night",
+      "question": "Why do we have day and night?",
+      "choices": [
+        "The sun moves around us",
+        "The Earth spins (rotates) on its axis",
+        "The sun turns off at night",
+        "Clouds cover the sun"
+      ],
+      "answerIndex": 1,
+      "explanation": "Earth spins once every 24 hours — the side facing the sun has day, the other side has night.",
+      "realWorldExample": "This is why the sun seems to \"rise\" in the east and \"set\" in the west every single day.",
+      "funFact": "Earth spins at about 1,670 km/h at the equator — faster than a jet plane!"
+    },
+    {
+      "id": "as-f-2",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🌙",
+      "title": "Moon Watching",
+      "question": "What is the Moon?",
+      "choices": [
+        "A star",
+        "Earth's natural satellite that orbits it",
+        "A planet",
+        "A cloud"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Moon is a rocky body that orbits Earth, held by gravity, and reflects sunlight.",
+      "realWorldExample": "You can watch the Moon change shape (phases) throughout the month just by looking up at night.",
+      "funFact": "The Moon is slowly moving away from Earth — about 3.8 cm every year!"
+    },
+    {
+      "id": "as-f-3",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "⭐",
+      "title": "Twinkling Stars",
+      "question": "What are stars made of?",
+      "choices": [
+        "Rock and ice",
+        "Hot glowing gas",
+        "Water",
+        "Metal"
+      ],
+      "answerIndex": 1,
+      "explanation": "Stars are giant balls of extremely hot gas (mostly hydrogen and helium) that glow brightly.",
+      "realWorldExample": "Our own Sun is a star — just much closer to us than any other star in the sky!",
+      "funFact": "Stars only appear to \"twinkle\" because Earth's moving atmosphere bends their light slightly!"
+    },
+    {
+      "id": "as-f-4",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🌍",
+      "title": "Our Home Planet",
+      "question": "What is special about Earth compared to other planets we know of?",
+      "choices": [
+        "It is the biggest planet",
+        "It has liquid water and supports life",
+        "It is closest to the Sun",
+        "It has the most moons"
+      ],
+      "answerIndex": 1,
+      "explanation": "Earth is the only known planet with liquid water on its surface and living things.",
+      "realWorldExample": "Astronauts on the Space Station describe Earth as a beautiful \"blue marble\" surrounded by dark space.",
+      "funFact": "Earth is the only planet in our solar system not named after a Greek or Roman god!"
+    },
+    {
+      "id": "as-f-5",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "☁️",
+      "title": "Sky Watchers",
+      "question": "What tool do astronomers use to see faraway stars and planets more clearly?",
+      "choices": [
+        "Microscope",
+        "Telescope",
+        "Magnifying glass",
+        "Binoculars only"
+      ],
+      "answerIndex": 1,
+      "explanation": "A telescope collects more light than our eyes can, letting us see distant, faint objects in space.",
+      "realWorldExample": "The famous Hubble Space Telescope has taken incredible photos of galaxies billions of light-years away.",
+      "funFact": "Galileo was one of the first people to use a telescope to study the night sky, in 1609!"
+    },
+    {
+      "id": "as-f-6",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🌞",
+      "title": "The Sun is a Star",
+      "question": "What does the Sun do for all the planets in our solar system, including Earth?",
+      "choices": [
+        "It orbits around Earth",
+        "Its gravity holds the planets in orbit and gives them light and warmth",
+        "It is just a big rock",
+        "It does nothing important"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Sun sits at the center of our solar system — its gravity keeps every planet in orbit, and its light and heat make life on Earth possible.",
+      "realWorldExample": "Plants use sunlight to grow through photosynthesis, which is the base of almost every food chain on Earth.",
+      "funFact": "The Sun is so big that over 1.3 million Earths could fit inside it!"
+    },
+    {
+      "id": "as-f-7",
+      "subject": "astronomy",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "👨‍🚀",
+      "title": "Why Astronauts Wear Suits",
+      "question": "Why do astronauts need to wear a special space suit outside their spacecraft?",
+      "choices": [
+        "To look cool for photos",
+        "There is no air to breathe and no protection from extreme temperatures in space",
+        "To stay warm only",
+        "Space suits are just tradition"
+      ],
+      "answerIndex": 1,
+      "explanation": "Space has no air to breathe and swings between extreme heat and cold, so a space suit supplies oxygen and protects astronauts from these dangers.",
+      "realWorldExample": "Space suits also protect astronauts from tiny fast-moving space debris that could otherwise be dangerous.",
+      "funFact": "A NASA space suit is actually a mini spacecraft by itself, complete with its own oxygen, water, and temperature control!"
+    },
+    {
+      "id": "as-e-1",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🌗",
+      "title": "Moon Phases",
+      "question": "Why does the Moon appear to change shape throughout the month?",
+      "choices": [
+        "The Moon actually changes size",
+        "We see different portions of its sunlit half as it orbits Earth",
+        "Clouds block parts of it",
+        "The Moon spins very fast"
+      ],
+      "answerIndex": 1,
+      "explanation": "As the Moon orbits Earth, we see varying amounts of its sunlit side, creating phases from new moon to full moon.",
+      "realWorldExample": "Many calendars, including Islamic and Chinese calendars, are based on tracking these moon phases.",
+      "funFact": "A full moon-to-full moon cycle takes about 29.5 days — almost exactly one month!"
+    },
+    {
+      "id": "as-e-2",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "🍂",
+      "title": "Why Seasons Change",
+      "question": "What causes Earth to have seasons like summer and winter?",
+      "choices": [
+        "Earth moving closer and farther from the sun",
+        "Earth's tilted axis as it orbits the sun",
+        "The Moon blocking sunlight",
+        "Random weather changes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Earth's axis is tilted about 23.5°, so different parts of Earth get more direct sunlight at different times of year.",
+      "realWorldExample": "This is why Australia has summer in December while India and the US have winter at the same time!",
+      "funFact": "Earth is actually slightly CLOSER to the sun during Northern Hemisphere winter — the tilt matters more than distance!"
+    },
+    {
+      "id": "as-e-3",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🪐",
+      "title": "The Solar System",
+      "question": "Which planet is known for its spectacular rings?",
+      "choices": [
+        "Mars",
+        "Saturn",
+        "Mercury",
+        "Earth"
+      ],
+      "answerIndex": 1,
+      "explanation": "Saturn's rings are made of countless chunks of ice and rock orbiting the planet.",
+      "realWorldExample": "You can actually see Saturn's rings yourself through a basic backyard telescope!",
+      "funFact": "Saturn is so light for its size that it would actually float in water — if you had a bathtub big enough!"
+    },
+    {
+      "id": "as-e-4",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🌑",
+      "title": "Eclipses Explained",
+      "question": "What happens during a solar eclipse?",
+      "choices": [
+        "Earth passes between the Sun and Moon",
+        "The Moon passes between the Sun and Earth, blocking sunlight",
+        "The Sun turns off temporarily",
+        "Clouds cover the whole Earth"
+      ],
+      "answerIndex": 1,
+      "explanation": "During a solar eclipse, the Moon moves directly between the Sun and Earth, casting a shadow on Earth.",
+      "realWorldExample": "People travel across the globe just to witness a total solar eclipse where day briefly turns to night!",
+      "funFact": "A total solar eclipse is possible because the Sun is 400 times bigger than the Moon but also 400 times farther away!"
+    },
+    {
+      "id": "as-e-5",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "legendary",
+      "emoji": "☄️",
+      "title": "Comets and Asteroids",
+      "question": "What causes a comet's glowing tail as it nears the Sun?",
+      "choices": [
+        "Fire burning on the comet",
+        "The Sun's heat vaporizing ice, creating a glowing gas trail",
+        "Reflections from Earth",
+        "The comet spinning fast"
+      ],
+      "answerIndex": 1,
+      "explanation": "As a comet approaches the Sun, its icy surface vaporizes, releasing gas and dust that form a glowing tail pushed by solar wind.",
+      "realWorldExample": "Halley's Comet is famous for returning to be visible from Earth roughly every 76 years.",
+      "funFact": "A comet's tail always points away from the Sun — not behind the comet's direction of travel!"
+    },
+    {
+      "id": "as-e-6",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🌠",
+      "title": "Shooting Stars",
+      "question": "What is actually happening when you see a \"shooting star\" streak across the night sky?",
+      "choices": [
+        "A star is falling out of the sky",
+        "A tiny piece of space rock burns up as it enters Earth's atmosphere",
+        "The Moon is cracking",
+        "A plane is flying with its lights on"
+      ],
+      "answerIndex": 1,
+      "explanation": "A \"shooting star\" is actually a small meteoroid burning up from friction as it speeds into Earth's atmosphere, creating a bright streak of light.",
+      "realWorldExample": "Meteor showers, like the Perseids in August, happen when Earth passes through a trail of dust left behind by a comet.",
+      "funFact": "Most shooting stars are caused by objects no bigger than a grain of sand or a small pebble!"
+    },
+    {
+      "id": "as-e-7",
+      "subject": "astronomy",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "🧑‍🚀",
+      "title": "Floating in Space",
+      "question": "Why do astronauts float around inside the International Space Station instead of walking normally?",
+      "choices": [
+        "There is no gravity anywhere near Earth",
+        "The station and everyone in it are continuously falling around Earth together, feeling weightless",
+        "Astronauts wear special floating shoes",
+        "The station has no floor"
+      ],
+      "answerIndex": 1,
+      "explanation": "The station and astronauts are all falling toward Earth at the same rate while moving forward fast enough to keep circling it, which feels like weightlessness.",
+      "realWorldExample": "This is the same feeling you get for a split second at the top of a rollercoaster drop — just continuous, because the station never actually lands.",
+      "funFact": "Astronauts can lose bone and muscle strength in long-duration weightlessness, so they must exercise for about 2 hours every single day!"
+    },
+    {
+      "id": "as-b-1",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🌐",
+      "title": "Gravity Holds It Together",
+      "question": "What force keeps planets orbiting the Sun instead of flying off into space?",
+      "choices": [
+        "Magnetism",
+        "The Sun's gravity",
+        "Air pressure",
+        "Solar wind"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Sun's immense gravity continuously pulls planets toward it, balancing their forward motion into a stable orbit.",
+      "realWorldExample": "Satellites orbiting Earth (like GPS satellites) stay up using this exact same gravity-and-motion balance.",
+      "funFact": "If the Sun's gravity suddenly vanished, Earth would fly off in a straight line at about 107,000 km/h!"
+    },
+    {
+      "id": "as-b-2",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "📏",
+      "title": "Measuring Cosmic Distance",
+      "question": "What is a \"light-year\" a measurement of?",
+      "choices": [
+        "Time",
+        "The distance light travels in one year",
+        "The brightness of a star",
+        "The age of a planet"
+      ],
+      "answerIndex": 1,
+      "explanation": "A light-year measures distance — how far light travels in one year (about 9.46 trillion km).",
+      "realWorldExample": "When astronomers say a star is \"4 light-years away,\" they mean its light took 4 years to reach us.",
+      "funFact": "Because light takes time to travel, when you look at distant stars, you're literally looking into the past!"
+    },
+    {
+      "id": "as-b-3",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "🛰️",
+      "title": "Artificial Satellites",
+      "question": "How do communication satellites help you use GPS or watch satellite TV?",
+      "choices": [
+        "They orbit Earth and relay signals to and from the ground",
+        "They generate the internet directly",
+        "They are located on the Moon",
+        "They use magnets to send signals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Satellites orbit Earth and relay radio signals across huge distances, enabling GPS, TV, and communication.",
+      "realWorldExample": "Your phone's map app calculates your location using signals from at least 4 GPS satellites simultaneously.",
+      "funFact": "There are over 8,000 active satellites currently orbiting Earth!"
+    },
+    {
+      "id": "as-b-4",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🔴",
+      "title": "The Red Planet",
+      "question": "Why does Mars appear reddish in the sky?",
+      "choices": [
+        "It is on fire",
+        "Iron oxide (rust) covers its surface",
+        "It reflects red light from the Sun only",
+        "It has red oceans"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mars's surface is covered in iron oxide dust — essentially rust — giving it a reddish color.",
+      "realWorldExample": "NASA's Mars rovers, like Perseverance, study this rusty soil to understand the planet's history.",
+      "funFact": "Mars has the largest volcano in the solar system, Olympus Mons — nearly 3 times taller than Mount Everest!"
+    },
+    {
+      "id": "as-b-5",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "🌌",
+      "title": "Our Galaxy",
+      "question": "What is the name of the galaxy that contains our Solar System?",
+      "choices": [
+        "Andromeda",
+        "The Milky Way",
+        "Triangulum",
+        "The Sombrero Galaxy"
+      ],
+      "answerIndex": 1,
+      "explanation": "Our Solar System is located in one of the spiral arms of the Milky Way galaxy.",
+      "realWorldExample": "On a clear, dark night away from city lights, you can actually see part of the Milky Way as a hazy band across the sky.",
+      "funFact": "The Milky Way contains an estimated 100–400 billion stars — and our Sun is just one of them!"
+    },
+    {
+      "id": "as-b-6",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🪨",
+      "title": "The Asteroid Belt",
+      "question": "Where is the main asteroid belt located in our solar system?",
+      "choices": [
+        "Between the Sun and Mercury",
+        "Between Mars and Jupiter",
+        "Beyond Neptune",
+        "Between Earth and the Moon"
+      ],
+      "answerIndex": 1,
+      "explanation": "The asteroid belt is a region between Mars and Jupiter containing millions of rocky leftover objects from the solar system's early formation.",
+      "realWorldExample": "Space missions like NASA's Dawn have visited asteroids in this belt, like Ceres and Vesta, to study the solar system's early history.",
+      "funFact": "Despite movies showing ships weaving through packed rocks, the asteroid belt is actually mostly empty space — the asteroids are millions of km apart!"
+    },
+    {
+      "id": "as-b-7",
+      "subject": "astronomy",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "🚗",
+      "title": "Rovers on Mars",
+      "question": "Why do space agencies send robotic rovers to explore Mars instead of sending astronauts directly?",
+      "choices": [
+        "Robots are cheaper and can survive Mars's harsh conditions without needing food, air, or a return trip",
+        "Mars has no interesting features to study",
+        "Rovers can fly faster than rockets",
+        "It is purely a marketing choice"
+      ],
+      "answerIndex": 0,
+      "explanation": "Robotic rovers can operate for years in Mars's extreme cold and radiation without life support, food, or a costly return journey — much safer and cheaper than sending humans today.",
+      "realWorldExample": "NASA's Perseverance rover has been exploring Mars, collecting rock samples and even testing how to produce oxygen there for future human missions.",
+      "funFact": "Signals take several minutes to travel between Mars and Earth, so rovers must be able to make some decisions on their own without instant remote control!"
+    },
+    {
+      "id": "as-i-1",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "⭐",
+      "title": "Life Cycle of Stars",
+      "question": "What eventually happens to a star much more massive than our Sun at the end of its life?",
+      "choices": [
+        "It quietly fades away",
+        "It explodes as a supernova",
+        "It turns into a planet",
+        "It becomes the Sun"
+      ],
+      "answerIndex": 1,
+      "explanation": "Massive stars end their lives in a dramatic supernova explosion, sometimes leaving behind a neutron star or black hole.",
+      "realWorldExample": "Many heavy elements on Earth, like gold and iron, were originally forged inside stars and scattered by supernovas.",
+      "funFact": "You are literally made of \"star stuff\" — the calcium in your bones came from ancient exploding stars!"
+    },
+    {
+      "id": "as-i-2",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🕳️",
+      "title": "Black Holes",
+      "question": "Why can't even light escape from a black hole?",
+      "choices": [
+        "Black holes are painted black",
+        "Their gravity is so strong it exceeds the speed of light needed to escape",
+        "They absorb light like a sponge",
+        "Light is scared of them"
+      ],
+      "answerIndex": 1,
+      "explanation": "A black hole's gravity is so intense that the escape velocity exceeds the speed of light — nothing, not even light, can escape.",
+      "realWorldExample": "In 2019, scientists captured the first-ever photo of a black hole's shadow using a network of telescopes worldwide.",
+      "funFact": "There is a supermassive black hole at the center of our own Milky Way galaxy, called Sagittarius A*!"
+    },
+    {
+      "id": "as-i-3",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🔭",
+      "title": "Exoplanets",
+      "question": "How do astronomers often detect planets orbiting other, distant stars?",
+      "choices": [
+        "By visiting them in spaceships",
+        "By observing tiny dips in starlight as a planet passes in front",
+        "By hearing radio signals from aliens",
+        "They cannot detect them at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "The \"transit method\" detects a slight, regular dimming of a star's light when a planet passes in front of it.",
+      "realWorldExample": "NASA's Kepler and TESS space telescopes have discovered thousands of exoplanets using this exact technique.",
+      "funFact": "Over 5,500 exoplanets have been confirmed so far, and some are in their star's \"habitable zone\"!"
+    },
+    {
+      "id": "as-i-4",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "📡",
+      "title": "The Big Bang",
+      "question": "What evidence supports the idea that the universe is expanding?",
+      "choices": [
+        "Planets are shrinking",
+        "Distant galaxies show redshifted light, moving away from us",
+        "The Moon is getting brighter",
+        "Stars are disappearing"
+      ],
+      "answerIndex": 1,
+      "explanation": "Redshift (light stretching toward red wavelengths) in distant galaxies shows they are moving away — evidence for an expanding universe.",
+      "realWorldExample": "This redshift evidence is a cornerstone of the Big Bang theory, first observed by Edwin Hubble in 1929.",
+      "funFact": "The universe is estimated to be about 13.8 billion years old!"
+    },
+    {
+      "id": "as-i-5",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "legendary",
+      "emoji": "🚀",
+      "title": "Escape Velocity",
+      "question": "Why must rockets reach a specific minimum speed (~11.2 km/s) to leave Earth permanently?",
+      "choices": [
+        "To beat air traffic",
+        "To overcome Earth's gravitational pull entirely",
+        "To avoid weather",
+        "To save fuel only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Escape velocity is the minimum speed needed so an object's kinetic energy overcomes Earth's gravitational pull without further propulsion.",
+      "realWorldExample": "Every mission sending probes beyond Earth orbit, like to Mars or the Moon, must calculate and reach this escape velocity.",
+      "funFact": "The Moon's escape velocity is only 2.4 km/s — over 4 times lower than Earth's — one reason lunar launches use less fuel!"
+    },
+    {
+      "id": "as-i-6",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🌑",
+      "title": "Dark Matter",
+      "question": "Why do scientists believe there is \"dark matter\" in the universe, even though it cannot be seen directly?",
+      "choices": [
+        "It was invented for science fiction stories",
+        "Galaxies spin in ways that only make sense if extra unseen mass is present, pulling with gravity",
+        "It is just empty space with a strange name",
+        "Telescopes are simply too weak to see it"
+      ],
+      "answerIndex": 1,
+      "explanation": "Galaxies rotate faster than the visible matter alone can explain — extra unseen mass (dark matter) must be adding gravity to hold them together.",
+      "realWorldExample": "Studying dark matter's gravity even helps astronomers map where invisible mass is hiding, by observing how it bends light from objects behind it.",
+      "funFact": "Scientists estimate dark matter makes up about 27% of the universe — while all the stars, planets, and everything visible make up less than 5%!"
+    },
+    {
+      "id": "as-i-7",
+      "subject": "astronomy",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🌍",
+      "title": "The Goldilocks Zone",
+      "question": "What makes a distant exoplanet a promising candidate for hosting life, according to the \"habitable zone\" idea?",
+      "choices": [
+        "It must be the largest planet around its star",
+        "It orbits at a distance where temperatures could allow liquid water to exist",
+        "It must be closest to its star",
+        "It must have rings like Saturn"
+      ],
+      "answerIndex": 1,
+      "explanation": "The habitable (\"Goldilocks\") zone is the orbital distance where a planet is not too hot or too cold, allowing liquid water — considered essential for life as we know it — to exist on its surface.",
+      "realWorldExample": "Earth sits comfortably in the Sun's habitable zone, which is a major reason it has oceans and supports life, unlike scorching Venus or frozen Mars.",
+      "funFact": "Scientists have found several Earth-sized exoplanets in their star's habitable zone, including some in the TRAPPIST-1 system, just 40 light-years away!"
+    },
+    {
+      "id": "lt-f-1",
+      "subject": "lighttime",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🕯️",
+      "title": "See-Through or Not?",
+      "question": "Which of these lets light pass straight through it, so you can see clearly?",
+      "choices": [
+        "A brick wall",
+        "Clear glass",
+        "A wooden door",
+        "A cardboard box"
+      ],
+      "answerIndex": 1,
+      "explanation": "Clear glass is transparent — light passes straight through it, letting you see what is on the other side.",
+      "realWorldExample": "Windows, spectacles, and water bottles are all made of transparent materials for this reason.",
+      "funFact": "Frosted glass in bathrooms is \"translucent\" — it lets light through but scrambles it so you cannot see shapes clearly!"
+    },
+    {
+      "id": "lt-f-2",
+      "subject": "lighttime",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "⏰",
+      "title": "Telling Time",
+      "question": "What tool do you look at to find out what time it is?",
+      "choices": [
+        "A ruler",
+        "A clock",
+        "A weighing scale",
+        "A thermometer"
+      ],
+      "answerIndex": 1,
+      "explanation": "A clock measures and displays time using hands or numbers that move at a steady, regular pace.",
+      "realWorldExample": "You check a clock to know when to leave for school or when your favourite show starts.",
+      "funFact": "Before clocks, people used the position of the sun in the sky to guess the time of day!"
+    },
+    {
+      "id": "lt-f-3",
+      "subject": "lighttime",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🕰️",
+      "title": "A Full Day",
+      "question": "How many hours are there in one full day?",
+      "choices": [
+        "12 hours",
+        "24 hours",
+        "60 hours",
+        "7 hours"
+      ],
+      "answerIndex": 1,
+      "explanation": "A day is measured as 24 hours — split into daytime hours and nighttime hours on a clock face.",
+      "realWorldExample": "This is why a clock face shows 12 numbers but each number is passed twice — once for AM, once for PM.",
+      "funFact": "A day on Earth is exactly this long because that is how fast our planet spins once on its axis!"
+    },
+    {
+      "id": "lt-f-4",
+      "subject": "lighttime",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔆",
+      "title": "Where Light Comes From",
+      "question": "Which of these makes its OWN light, instead of just reflecting light from somewhere else?",
+      "choices": [
+        "The Moon",
+        "A mirror",
+        "The Sun",
+        "A shiny spoon"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Sun is a light source — it produces its own light. Mirrors, moons, and spoons only bounce light that already exists.",
+      "realWorldExample": "This is why the Moon looks bright at night — it is only reflecting sunlight, not glowing on its own.",
+      "funFact": "Fireflies are one of the very few living things that can make their own light too!"
+    },
+    {
+      "id": "lt-f-5",
+      "subject": "lighttime",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "📅",
+      "title": "Days of the Week",
+      "question": "How many days are there in one week?",
+      "choices": [
+        "5 days",
+        "7 days",
+        "10 days",
+        "30 days"
+      ],
+      "answerIndex": 1,
+      "explanation": "A week has 7 days, and it repeats over and over to help us organise school days, weekends, and plans.",
+      "realWorldExample": "Your school timetable and weekend plans are both built around this 7-day repeating pattern.",
+      "funFact": "The 7-day week is thousands of years old — ancient Babylonians used it because they tracked 7 objects moving in the sky!"
+    },
+    {
+      "id": "lt-e-1",
+      "subject": "lighttime",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🪞",
+      "title": "Bouncing Light",
+      "question": "Why can you see yourself in a mirror?",
+      "choices": [
+        "The mirror creates a copy of you",
+        "Light bounces off you and reflects back off the mirror",
+        "Mirrors are magic",
+        "Mirrors absorb your image"
+      ],
+      "answerIndex": 1,
+      "explanation": "Light reflects off your face and body, hits the smooth mirror surface, and bounces back to your eyes in an orderly way.",
+      "realWorldExample": "Rear-view mirrors in cars and bathroom mirrors both work using this same simple reflection.",
+      "funFact": "A flat mirror always shows you flipped left-to-right, which is why reading text in a mirror looks backwards!"
+    },
+    {
+      "id": "lt-e-2",
+      "subject": "lighttime",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "⏱️",
+      "title": "Stopwatch Precision",
+      "question": "Why do sports races use a stopwatch instead of a normal wall clock?",
+      "choices": [
+        "Stopwatches look nicer",
+        "A stopwatch can measure very small fractions of a second precisely",
+        "Wall clocks are too heavy to carry",
+        "There is no real difference"
+      ],
+      "answerIndex": 1,
+      "explanation": "A stopwatch can start, stop, and measure down to hundredths of a second, which matters when races are won by a tiny margin.",
+      "realWorldExample": "Olympic 100m sprints are often decided by less than a tenth of a second, measured by precision timers.",
+      "funFact": "Some Olympic races are now timed by lasers and cameras that catch differences of one thousandth of a second!"
+    },
+    {
+      "id": "lt-e-3",
+      "subject": "lighttime",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🌗",
+      "title": "Fast Light",
+      "question": "Compared to sound, how fast does light travel?",
+      "choices": [
+        "Much slower than sound",
+        "About the same speed as sound",
+        "Enormously faster than sound",
+        "Light does not travel, it just appears"
+      ],
+      "answerIndex": 2,
+      "explanation": "Light travels about a million times faster than sound, which is why we see something happen before we hear it.",
+      "realWorldExample": "This is why you see lightning flash instantly but hear the thunder rumble a few seconds later.",
+      "funFact": "You can estimate how far away a storm is by counting seconds between the lightning flash and the thunder!"
+    },
+    {
+      "id": "lt-e-4",
+      "subject": "lighttime",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🎨",
+      "title": "Why Things Have Colour",
+      "question": "A red apple looks red because the apple's skin does what to light?",
+      "choices": [
+        "Creates red light by itself",
+        "Absorbs all colours except red, which it reflects",
+        "Absorbs only red light",
+        "Has no effect on light at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "White light contains all colours. The apple's skin absorbs most colours but reflects red light back to your eyes.",
+      "realWorldExample": "This is why a black T-shirt feels hotter in the sun — black absorbs nearly all colours of light as heat, reflecting almost none.",
+      "funFact": "A banana looks yellow in white light, but under pure red light it would look almost black — no yellow light to reflect!"
+    },
+    {
+      "id": "lt-e-5",
+      "subject": "lighttime",
+      "band": "explorer",
+      "rarity": "legendary",
+      "emoji": "🗺️",
+      "title": "Time Zones",
+      "question": "Why is it daytime in India while it is still nighttime in New York?",
+      "choices": [
+        "They use different clocks that run at different speeds",
+        "The Earth is round and spinning, so different places face the Sun at different times",
+        "New York has less sunlight overall",
+        "It is a mistake in the calendar"
+      ],
+      "answerIndex": 1,
+      "explanation": "As the round Earth spins, different regions face the Sun at different moments, so the world is split into time zones a few hours apart.",
+      "realWorldExample": "This is why a video call between friends in India and the USA has to be planned carefully around the time difference.",
+      "funFact": "There are about 24 main time zones around the globe, roughly one for every hour of Earth's rotation!"
+    },
+    {
+      "id": "lt-b-1",
+      "subject": "lighttime",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "📐",
+      "title": "Angle of Reflection",
+      "question": "When light hits a flat mirror at 30° from the surface, at what angle does it bounce off?",
+      "choices": [
+        "15°",
+        "30°",
+        "60°",
+        "90°"
+      ],
+      "answerIndex": 1,
+      "explanation": "The law of reflection states the angle of incidence equals the angle of reflection — light bounces off at the same angle it arrived.",
+      "realWorldExample": "Periscopes in submarines use precisely angled mirrors to redirect light around corners using this exact law.",
+      "funFact": "Skateboarders and pool players use this same \"equal angle\" idea to bank a ball or trick off a ramp!"
+    },
+    {
+      "id": "lt-b-2",
+      "subject": "lighttime",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🌫️",
+      "title": "Why the Sky is Blue",
+      "question": "Why does the daytime sky look blue instead of another colour?",
+      "choices": [
+        "The sky is painted blue",
+        "Air molecules scatter blue light from sunlight more than other colours",
+        "The ocean reflects its colour upward",
+        "Blue is the only colour the Sun makes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Sunlight contains all colours, but tiny air molecules scatter shorter blue wavelengths much more than red or yellow, filling the sky with blue light.",
+      "realWorldExample": "At sunset, sunlight travels through more atmosphere, scattering away the blue and leaving the reds and oranges you see.",
+      "funFact": "On the Moon, which has no atmosphere to scatter light, the sky always looks black — even in daytime!"
+    },
+    {
+      "id": "lt-b-3",
+      "subject": "lighttime",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "⏳",
+      "title": "Measuring Time Without Batteries",
+      "question": "How does an old-fashioned hourglass measure a fixed amount of time?",
+      "choices": [
+        "It counts using a hidden battery",
+        "A fixed amount of sand takes a steady, repeatable time to fall through a narrow gap",
+        "It uses sunlight",
+        "It measures temperature"
+      ],
+      "answerIndex": 1,
+      "explanation": "Because sand flows through the narrow neck at a roughly constant rate, the same quantity of sand always takes about the same time to empty.",
+      "realWorldExample": "Board games like Pictionary still use sand timers today for exactly this reliable, battery-free timing.",
+      "funFact": "Before mechanical clocks, sailors used hourglasses at sea to time their ship's speed and navigation!"
+    },
+    {
+      "id": "lt-b-4",
+      "subject": "lighttime",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🔬",
+      "title": "Speed of Light Number",
+      "question": "Roughly how fast does light travel in a vacuum?",
+      "choices": [
+        "About 300 km/second",
+        "About 300,000 km/second",
+        "About 300 km/hour",
+        "About 3 km/second"
+      ],
+      "answerIndex": 1,
+      "explanation": "Light travels at about 300,000 kilometres per second in a vacuum — fast enough to circle the Earth over 7 times in one second.",
+      "realWorldExample": "GPS satellites must account for this speed extremely precisely, or your phone's map location would drift off by kilometres.",
+      "funFact": "Nothing with mass can travel as fast as light — it is the universe's ultimate speed limit!"
+    },
+    {
+      "id": "lt-b-5",
+      "subject": "lighttime",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "🕹️",
+      "title": "Reaction Time",
+      "question": "Why do video game and sports athletes train their \"reaction time\"?",
+      "choices": [
+        "To become taller",
+        "To shorten the time between seeing something and reacting to it",
+        "To see in the dark",
+        "To change their eye colour"
+      ],
+      "answerIndex": 1,
+      "explanation": "Reaction time is the tiny time gap between your senses detecting something and your muscles responding — training can shorten it slightly.",
+      "realWorldExample": "A goalkeeper saving a fast penalty kick, or a sprinter leaving the blocks at the starting gun, both rely on fast reaction time.",
+      "funFact": "The average human reaction time is about 0.25 seconds — which is why false-starting before a race gun fires gets you disqualified!"
+    },
+    {
+      "id": "lt-i-1",
+      "subject": "lighttime",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "🌈",
+      "title": "Dispersion in a Prism",
+      "question": "When white light passes through a glass prism and splits into colours, what causes this splitting?",
+      "choices": [
+        "The glass adds colour dye",
+        "Different colours of light bend by different amounts inside the glass",
+        "The prism is actually painted",
+        "Prisms only work with sunlight"
+      ],
+      "answerIndex": 1,
+      "explanation": "Each colour of light bends (refracts) by a slightly different amount as it enters and exits the glass, spreading white light into a spectrum.",
+      "realWorldExample": "This same splitting of light by water droplets is exactly why rainbows appear after rain.",
+      "funFact": "Isaac Newton was the first to prove that white light is actually a mixture of all the rainbow colours, using a simple prism!"
+    },
+    {
+      "id": "lt-i-2",
+      "subject": "lighttime",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "📡",
+      "title": "Light-Speed Delay",
+      "question": "Why is there a noticeable delay when talking to someone via a satellite phone call, even though signals travel at light speed?",
+      "choices": [
+        "Satellites are slow to process sound",
+        "The physical distance to a satellite and back is large enough for even light-speed signals to take a fraction of a second",
+        "Satellite phones use sound waves, not light",
+        "There is no real delay"
+      ],
+      "answerIndex": 1,
+      "explanation": "Even at light speed, a signal travelling tens of thousands of kilometres up to a satellite and back takes a measurable fraction of a second.",
+      "realWorldExample": "This is why live TV interviews via satellite sometimes show a short awkward pause before the person answers.",
+      "funFact": "Signals to Mars take between 4 and 24 minutes one-way, depending on the planets' positions — real-time conversation with Mars is impossible!"
+    },
+    {
+      "id": "lt-i-3",
+      "subject": "lighttime",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🧪",
+      "title": "Total Internal Reflection",
+      "question": "How does a fibre-optic cable carry light signals around bends without the light escaping?",
+      "choices": [
+        "The cable is perfectly straight, never bent",
+        "Light reflects entirely off the inside walls of the cable at certain angles, trapping it inside",
+        "It uses tiny mirrors placed every centimetre",
+        "The light travels as sound instead"
+      ],
+      "answerIndex": 1,
+      "explanation": "At the right angle, light hitting the boundary between two materials reflects completely instead of escaping — called total internal reflection.",
+      "realWorldExample": "This exact principle carries internet and phone data as light pulses through fibre-optic cables under oceans, connecting continents.",
+      "funFact": "A single fibre-optic cable strand, thinner than a human hair, can carry many times more data than old copper cables!"
+    },
+    {
+      "id": "lt-i-4",
+      "subject": "lighttime",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "⏲️",
+      "title": "How Atomic Clocks Work",
+      "question": "What makes atomic clocks the most accurate timekeeping devices ever built?",
+      "choices": [
+        "They use very heavy gears",
+        "They count extremely regular vibrations of atoms instead of springs or pendulums",
+        "They are powered by nuclear reactors",
+        "They rely on sunlight only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Atomic clocks measure the incredibly steady, predictable vibrations of atoms (like caesium) to define a second more precisely than any mechanical clock.",
+      "realWorldExample": "GPS satellites carry atomic clocks — without their precision, your phone's location could be off by kilometres instead of metres.",
+      "funFact": "An atomic clock is so precise it would not lose or gain a single second in over 100 million years!"
+    },
+    {
+      "id": "lt-i-5",
+      "subject": "lighttime",
+      "band": "innovator",
+      "rarity": "legendary",
+      "emoji": "🌀",
+      "title": "Time Dilation",
+      "question": "According to Einstein's theory of relativity, what happens to time for someone travelling extremely fast compared to someone standing still?",
+      "choices": [
+        "Time speeds up equally for everyone",
+        "Time passes more slowly for the fast-moving traveller",
+        "Time stops completely for both",
+        "Relativity says nothing about time"
+      ],
+      "answerIndex": 1,
+      "explanation": "Einstein showed that time is not fixed — it runs slightly slower for objects moving very fast relative to an observer, an effect called time dilation.",
+      "realWorldExample": "GPS satellites, moving fast and experiencing weaker gravity, actually have their onboard clocks tick at a very slightly different rate than clocks on Earth — engineers must correct for it daily.",
+      "funFact": "Astronauts on the International Space Station age a tiny fraction of a second less than people on Earth, due to their speed!"
+    },
+    {
+      "id": "ci-f-1",
+      "subject": "circuits",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "💧",
+      "title": "Electricity Like Water",
+      "question": "Electric current flowing through a wire is a bit like what flowing through a pipe?",
+      "choices": [
+        "Water",
+        "Sand",
+        "Air only",
+        "Light"
+      ],
+      "answerIndex": 0,
+      "explanation": "Just like water flows through a pipe, electric current flows through a wire — it is a useful way to picture something you cannot see.",
+      "realWorldExample": "Plumbers control water flow with taps, just like switches control electric current flow in a circuit.",
+      "funFact": "Scientists even measure electric current in \"amperes\", similar to how you might measure water in litres per second!"
+    },
+    {
+      "id": "ci-f-2",
+      "subject": "circuits",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔋",
+      "title": "What a Battery Gives",
+      "question": "What does a battery provide to push electric current around a circuit?",
+      "choices": [
+        "Sound",
+        "Push (voltage)",
+        "Cold air",
+        "Weight"
+      ],
+      "answerIndex": 1,
+      "explanation": "A battery provides voltage — an electrical \"push\" that drives current through the circuit, similar to a pump pushing water.",
+      "realWorldExample": "A bigger battery (like in a car) gives a bigger push, which is why it can power much larger devices than a small toy battery.",
+      "funFact": "A single AA battery gives about 1.5 volts of push — a car battery gives about 12 volts, 8 times as much!"
+    },
+    {
+      "id": "ci-f-3",
+      "subject": "circuits",
+      "band": "foundations",
+      "rarity": "rare",
+      "emoji": "🚫",
+      "title": "Slowing Down Current",
+      "question": "What word describes something that makes it harder for electric current to flow through it?",
+      "choices": [
+        "Speed",
+        "Resistance",
+        "Colour",
+        "Weight"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resistance is how much a material pushes back against electric current — high resistance means current flows less easily.",
+      "realWorldExample": "The thin wire inside a toaster has high resistance, which is exactly why it heats up and glows when current flows through it.",
+      "funFact": "Thick wires generally have less resistance than thin wires — that's why big electrical cables are so thick!"
+    },
+    {
+      "id": "ci-f-4",
+      "subject": "circuits",
+      "band": "foundations",
+      "rarity": "common",
+      "emoji": "🔢",
+      "title": "More Batteries, More Push",
+      "question": "If you put two batteries together in a toy instead of one, what usually happens to the toy?",
+      "choices": [
+        "It stops working",
+        "It usually runs faster or brighter",
+        "It turns a different colour",
+        "Nothing changes at all"
+      ],
+      "answerIndex": 1,
+      "explanation": "Two batteries connected the right way add up their voltage, giving a bigger push of current, which often makes toys run faster or lights shine brighter.",
+      "realWorldExample": "This is why some toy cars need 2 or 4 batteries instead of just 1 — more push for more power.",
+      "funFact": "Put batteries in backwards, though, and their pushes can cancel out instead of adding up!"
+    },
+    {
+      "id": "ci-f-5",
+      "subject": "circuits",
+      "band": "foundations",
+      "rarity": "epic",
+      "emoji": "🧵",
+      "title": "Thick vs Thin Wire",
+      "question": "Which wire would usually let electric current flow through it more easily?",
+      "choices": [
+        "A thin, long wire",
+        "A thick, short wire",
+        "They are always exactly the same",
+        "Wire thickness never matters"
+      ],
+      "answerIndex": 1,
+      "explanation": "A thick, short wire has lower resistance than a thin, long one, so current flows through it more easily — like a wide pipe letting more water through.",
+      "realWorldExample": "This is why the main cables bringing electricity into your house are much thicker than the tiny wires inside a phone charger.",
+      "funFact": "Overloading a thin wire with too much current can make it dangerously hot — that is exactly why fuses exist!"
+    },
+    {
+      "id": "ci-e-1",
+      "subject": "circuits",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "📏",
+      "title": "Measuring Current",
+      "question": "What unit do we use to measure how much electric current is flowing?",
+      "choices": [
+        "Volts",
+        "Amperes (Amps)",
+        "Metres",
+        "Grams"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electric current is measured in amperes, often shortened to \"amps\" — named after French scientist André-Marie Ampère.",
+      "realWorldExample": "A hairdryer might use about 10 amps, while a small LED torch uses a tiny fraction of an amp.",
+      "funFact": "A household circuit breaker is often labelled \"15A\" or \"20A\" — that's the maximum current it allows before switching off!"
+    },
+    {
+      "id": "ci-e-2",
+      "subject": "circuits",
+      "band": "explorer",
+      "rarity": "rare",
+      "emoji": "⚡",
+      "title": "Measuring Voltage",
+      "question": "What unit do we use to measure the electrical \"push\" (voltage) of a battery or socket?",
+      "choices": [
+        "Volts",
+        "Litres",
+        "Kilograms",
+        "Amperes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Voltage is measured in volts, named after Alessandro Volta, who invented the first battery.",
+      "realWorldExample": "A wall socket in India supplies about 230 volts — far more push than a small 1.5-volt battery.",
+      "funFact": "This much higher household voltage is exactly why you should never touch wall sockets with wet hands or metal objects!"
+    },
+    {
+      "id": "ci-e-3",
+      "subject": "circuits",
+      "band": "explorer",
+      "rarity": "common",
+      "emoji": "🧱",
+      "title": "Measuring Resistance",
+      "question": "What unit is used to measure electrical resistance?",
+      "choices": [
+        "Watts",
+        "Ohms",
+        "Newtons",
+        "Joules"
+      ],
+      "answerIndex": 1,
+      "explanation": "Resistance is measured in ohms (symbol Ω), named after Georg Ohm, who studied how current, voltage, and resistance relate.",
+      "realWorldExample": "A resistor used in electronic circuits might be labelled \"220 ohms\" or \"1000 ohms\" depending on how much it resists current.",
+      "funFact": "The ohm symbol (Ω) is actually the Greek letter omega — chosen partly because it looks a little like a horseshoe magnet!"
+    },
+    {
+      "id": "ci-e-4",
+      "subject": "circuits",
+      "band": "explorer",
+      "rarity": "epic",
+      "emoji": "🌡️",
+      "title": "Why Wires Get Warm",
+      "question": "Why does an electric heater's coil glow hot when current flows through it, but a thick copper wire nearby stays cool?",
+      "choices": [
+        "The coil is made of a different colour",
+        "The coil has much higher resistance, so it converts more electrical energy into heat",
+        "The copper wire is too far from the switch",
+        "There is no real difference"
+      ],
+      "answerIndex": 1,
+      "explanation": "Materials with higher resistance convert more electrical energy into heat as current pushes through them, which is exactly how heaters are designed to work.",
+      "realWorldExample": "Toasters, hair straighteners, and electric kettles all use high-resistance coils on purpose, to turn electricity into heat.",
+      "funFact": "This heating effect is called \"resistive heating\" — it is also the reason overloaded plug sockets can become a fire risk!"
+    },
+    {
+      "id": "ci-e-5",
+      "subject": "circuits",
+      "band": "explorer",
+      "rarity": "legendary",
+      "emoji": "🧯",
+      "title": "Why Voltage Can Be Dangerous",
+      "question": "Why is it far more dangerous to touch a high-voltage power line than a small 9-volt battery?",
+      "choices": [
+        "High voltage looks scarier but is not actually different",
+        "A much bigger push of current is driven through your body, which can seriously injure or kill",
+        "Power lines are simply taller",
+        "There is no real danger difference"
+      ],
+      "answerIndex": 1,
+      "explanation": "Higher voltage drives a much larger, more dangerous current through a conductive path like the human body, which is why high-voltage lines are so hazardous.",
+      "realWorldExample": "This is exactly why power line workers wear thick insulated gloves and suits, and why warning signs near substations say \"Danger: High Voltage\".",
+      "funFact": "Birds can perch safely on a single high-voltage wire because current only flows when there is a path — but touching the wire and the ground (or a pole) at once completes a deadly path!"
+    },
+    {
+      "id": "ci-b-1",
+      "subject": "circuits",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "🧮",
+      "title": "Ohm's Law in Practice",
+      "question": "Using Ohm's Law (V = I × R), what voltage is needed to push 2 amps of current through a 5-ohm resistor?",
+      "choices": [
+        "2.5 V",
+        "7 V",
+        "10 V",
+        "3 V"
+      ],
+      "answerIndex": 2,
+      "explanation": "V = I × R = 2 × 5 = 10 volts. This tells you exactly how much push is needed for a given current and resistance.",
+      "realWorldExample": "Engineers use this exact calculation to choose safe battery voltages for circuits with a known resistance, like an LED strip.",
+      "funFact": "Ohm's Law is one of the very first formulas every electronics student learns, because nearly everything else builds on it!"
+    },
+    {
+      "id": "ci-b-2",
+      "subject": "circuits",
+      "band": "builder",
+      "rarity": "rare",
+      "emoji": "🔌",
+      "title": "Electric Power Formula",
+      "question": "Electric power (in watts) used by a device is calculated as P = V × I. A device running on 10V and drawing 2A uses how much power?",
+      "choices": [
+        "5 W",
+        "12 W",
+        "20 W",
+        "8 W"
+      ],
+      "answerIndex": 2,
+      "explanation": "P = V × I = 10 × 2 = 20 watts. Power tells you the rate at which electrical energy is being used or converted.",
+      "realWorldExample": "This is exactly the formula used to calculate the wattage printed on light bulbs, chargers, and appliances.",
+      "funFact": "A typical smartphone charger might supply about 5V and 2A — that is 10 watts of charging power!"
+    },
+    {
+      "id": "ci-b-3",
+      "subject": "circuits",
+      "band": "builder",
+      "rarity": "epic",
+      "emoji": "💸",
+      "title": "How Your Electricity Bill Works",
+      "question": "Your electricity bill charges you based on \"units\" measured in kWh (kilowatt-hours). What does 1 kWh actually represent?",
+      "choices": [
+        "1 kilogram of electricity",
+        "Using 1000 watts of power for 1 hour",
+        "1000 volts used instantly",
+        "The speed of your electricity"
+      ],
+      "answerIndex": 1,
+      "explanation": "A kilowatt-hour is a unit of energy — it means using 1000 watts of power continuously for one hour (or 100 watts for 10 hours, etc).",
+      "realWorldExample": "Running a 2000-watt heater for 1 hour uses 2 kWh — and your electricity bill charges you per kWh consumed that month.",
+      "funFact": "Leaving a 10-watt LED bulb on for 100 hours also uses exactly 1 kWh — the same \"amount\" as that heater running for half an hour!"
+    },
+    {
+      "id": "ci-b-4",
+      "subject": "circuits",
+      "band": "builder",
+      "rarity": "common",
+      "emoji": "📊",
+      "title": "Resistance in Series",
+      "question": "If you connect two 4-ohm resistors one after another (in series) in a circuit, what is their combined resistance?",
+      "choices": [
+        "2 ohms",
+        "4 ohms",
+        "8 ohms",
+        "16 ohms"
+      ],
+      "answerIndex": 2,
+      "explanation": "Resistances in series simply add up: 4 + 4 = 8 ohms — current has to push through both, one after the other.",
+      "realWorldExample": "Old-style string lights wired in series add up their resistance this way, which is part of why the whole string can dim if one bulb weakens.",
+      "funFact": "Resistors in parallel behave completely differently — their combined resistance is actually lower than either one alone!"
+    },
+    {
+      "id": "ci-b-5",
+      "subject": "circuits",
+      "band": "builder",
+      "rarity": "legendary",
+      "emoji": "🧰",
+      "title": "Using a Multimeter",
+      "question": "An electrician uses a multimeter to check a wire. What is a multimeter designed to measure?",
+      "choices": [
+        "Only the wire's colour",
+        "Voltage, current, and resistance in a circuit",
+        "Only the wire's length",
+        "The temperature of the room"
+      ],
+      "answerIndex": 1,
+      "explanation": "A multimeter is a handheld tool that can measure voltage, current, and resistance, making it essential for testing and fixing circuits safely.",
+      "realWorldExample": "Electricians use multimeters to check if a socket is safely wired, or to find exactly where a circuit has broken.",
+      "funFact": "Some modern multimeters can also test batteries, diodes, and even the temperature of a component!"
+    },
+    {
+      "id": "ci-i-1",
+      "subject": "circuits",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "🔀",
+      "title": "Resistance in Parallel",
+      "question": "Two identical 10-ohm resistors are connected in parallel. Is their combined resistance more or less than 10 ohms?",
+      "choices": [
+        "More than 10 ohms",
+        "Exactly 10 ohms",
+        "Less than 10 ohms",
+        "Resistance becomes zero"
+      ],
+      "answerIndex": 2,
+      "explanation": "In parallel, current has multiple paths to flow through, so the combined resistance is always less than the smallest individual resistor — here, exactly 5 ohms.",
+      "realWorldExample": "Household wiring is done in parallel partly because adding more devices (paths) does not multiply resistance the way series wiring would.",
+      "funFact": "This is also why plugging in too many parallel devices on one circuit can draw dangerously high total current, even though each device alone seems fine!"
+    },
+    {
+      "id": "ci-i-2",
+      "subject": "circuits",
+      "band": "innovator",
+      "rarity": "rare",
+      "emoji": "🌡️",
+      "title": "Resistance and Temperature",
+      "question": "For most metal conductors, what typically happens to their electrical resistance as temperature increases?",
+      "choices": [
+        "Resistance decreases",
+        "Resistance increases",
+        "Resistance stays exactly the same",
+        "Resistance becomes negative"
+      ],
+      "answerIndex": 1,
+      "explanation": "As metal atoms vibrate more at higher temperatures, they get in the way of flowing electrons more often, increasing resistance.",
+      "realWorldExample": "This is part of why an incandescent bulb's filament briefly draws a large current the instant it is switched on cold, before heating up and its resistance rising.",
+      "funFact": "Superconductors are special materials whose resistance drops to exactly zero at extremely low temperatures!"
+    },
+    {
+      "id": "ci-i-3",
+      "subject": "circuits",
+      "band": "innovator",
+      "rarity": "epic",
+      "emoji": "🔗",
+      "title": "Kirchhoff's Voltage Law",
+      "question": "Kirchhoff's Voltage Law states that around any complete loop in a circuit, the total voltage supplied equals...",
+      "choices": [
+        "Zero, always",
+        "The total voltage dropped across all components in that loop",
+        "Double the resistance",
+        "The current squared"
+      ],
+      "answerIndex": 1,
+      "explanation": "Energy is conserved around a closed loop — all the voltage supplied by sources must be exactly \"used up\" by the resistances in that same loop.",
+      "realWorldExample": "Engineers use this law to design and check circuit boards, making sure every component gets the correct voltage.",
+      "funFact": "Kirchhoff's Voltage Law and Current Law together let engineers analyse circuits far too complex to solve using Ohm's Law alone!"
+    },
+    {
+      "id": "ci-i-4",
+      "subject": "circuits",
+      "band": "innovator",
+      "rarity": "common",
+      "emoji": "🔋",
+      "title": "Internal Resistance",
+      "question": "Why does a battery's voltage often drop slightly when it powers a device that draws a lot of current?",
+      "choices": [
+        "Batteries randomly change their voltage",
+        "The battery itself has some internal resistance, which causes a voltage drop under load",
+        "The device steals voltage from the air",
+        "This never actually happens"
+      ],
+      "answerIndex": 1,
+      "explanation": "Every real battery has some internal resistance, so as current increases, some voltage is \"lost\" inside the battery itself before reaching the circuit.",
+      "realWorldExample": "This is why a car's headlights can dim slightly for a moment while the starter motor draws a huge burst of current to start the engine.",
+      "funFact": "A battery's internal resistance also increases as it ages or gets cold, which is why old or cold batteries seem \"weaker\"!"
+    },
+    {
+      "id": "ci-i-5",
+      "subject": "circuits",
+      "band": "innovator",
+      "rarity": "legendary",
+      "emoji": "🏭",
+      "title": "Why Power Lines Use High Voltage",
+      "question": "Why do power companies transmit electricity across long distances at very high voltages (like 400,000 volts), then reduce it before it reaches homes?",
+      "choices": [
+        "High voltage looks more impressive",
+        "For the same power, higher voltage means lower current, which loses much less energy as heat over long wires",
+        "It is a historical accident nobody has fixed",
+        "High voltage travels faster than low voltage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Since power = voltage × current, transmitting at very high voltage keeps current (and resulting resistive heat loss) low, wasting far less energy over long-distance cables.",
+      "realWorldExample": "This is why you see large transformer stations near your neighbourhood — they safely step that high voltage back down to the ~230V used in homes.",
+      "funFact": "Without high-voltage transmission, a huge fraction of generated electricity would simply be wasted as heat before it ever reached your home!"
+    }
+  ]
+}

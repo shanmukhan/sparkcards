@@ -6,7 +6,7 @@ interface Props {
   onSelect: (subject: Subject) => void
 }
 
-const SUBJECTS: Subject[] = ['maths', 'physics', 'electronics', 'astronomy']
+const SUBJECTS = Object.keys(SUBJECT_INFO) as Subject[]
 
 export function SubjectGrid({ onSelect }: Props) {
   return (

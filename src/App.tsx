@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import type { Band, Subject } from './data/types'
+import { refreshCardsFromRemote } from './data/remoteContent'
 import { useGameStore } from './store/gameStore'
 import { TopBar } from './components/TopBar'
 import { SubjectGrid } from './components/SubjectGrid'
@@ -26,10 +27,17 @@ export default function App() {
   const [result, setResult] = useState<SessionResult | null>(null)
   const [showBadges, setShowBadges] = useState(false)
   const touchDailyStreak = useGameStore((s) => s.touchDailyStreak)
+  const [, setContentTick] = useState(0)
 
   useEffect(() => {
     touchDailyStreak()
   }, [touchDailyStreak])
+
+  useEffect(() => {
+    // Refreshes the card pool from cards.json if reachable, so new questions
+    // (e.g. a monthly content update) show up without an app redeploy.
+    refreshCardsFromRemote().then(() => setContentTick((t) => t + 1))
+  }, [])
 
   function goHome() {
     setScreen('home')

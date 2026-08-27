@@ -47,6 +47,24 @@ export const electronicsCards: Card[] = [
     realWorldExample: 'If a single wire in your string of fairy lights breaks, sometimes the whole string goes dark!',
     funFact: 'The word "circuit" comes from a Latin word meaning "to go around"!',
   },
+  {
+    id: 'el-f-6', subject: 'electronics', band: 'foundations', rarity: 'common', emoji: '♻️',
+    title: 'Reusable Power',
+    question: 'What is special about a rechargeable battery compared to a normal one-time-use battery?',
+    choices: ['It can be refilled with energy and used again many times', 'It never runs out at all', 'It only works with toys', 'It is always bigger'], answerIndex: 0,
+    explanation: 'A rechargeable battery can be plugged into a charger to refill its stored energy, so it can be used hundreds of times instead of being thrown away.',
+    realWorldExample: 'Phones, laptops, and electric cars all use rechargeable batteries so you don\'t need to buy new ones constantly.',
+    funFact: 'Using rechargeable batteries instead of disposable ones helps reduce a huge amount of battery waste every year!',
+  },
+  {
+    id: 'el-f-7', subject: 'electronics', band: 'foundations', rarity: 'rare', emoji: '📺',
+    title: 'Invisible Remote Signal',
+    question: 'How does a TV remote control tell the TV to change channels without any wires?',
+    choices: ['It shouts a secret code', 'It sends an invisible infrared light signal', 'It uses magic', 'It pushes air toward the TV'], answerIndex: 1,
+    explanation: 'A TV remote sends a pattern of invisible infrared light pulses that a sensor on the TV detects and understands as a command.',
+    realWorldExample: 'This is why a remote must usually point roughly at the TV to work — infrared light travels in a fairly straight line.',
+    funFact: 'You can often see a remote\'s infrared light flashing if you look at its bulb through a phone camera — infrared is invisible to human eyes but not to most camera sensors!',
+  },
 
   // Explorer (Class 3-5)
   {
@@ -93,6 +111,24 @@ export const electronicsCards: Card[] = [
     explanation: 'A fuse contains a thin wire that melts and breaks the circuit if current gets dangerously high, protecting devices and homes.',
     realWorldExample: 'Your home\'s fuse box (or circuit breaker) protects all your appliances from electrical surges.',
     funFact: 'Modern homes mostly use circuit breakers instead of fuses because they can be reset instead of replaced!',
+  },
+  {
+    id: 'el-e-6', subject: 'electronics', band: 'explorer', rarity: 'common', emoji: '🌀',
+    title: 'Spinning Fans',
+    question: 'What makes an electric fan\'s blades spin when you switch it on?',
+    choices: ['A tiny electric motor converts electrical energy into spinning motion', 'The battery pushes the blades directly', 'Air pressure alone spins it', 'It uses magnets to freeze the air'], answerIndex: 0,
+    explanation: 'An electric motor uses electricity and magnetism together to create spinning (rotational) motion, turning the fan\'s blades.',
+    realWorldExample: 'Fans, washing machines, and electric toothbrushes all contain small motors doing this same job.',
+    funFact: 'A single large wind turbine works like a giant fan in reverse — wind spins the blades to generate electricity instead of the other way around!',
+  },
+  {
+    id: 'el-e-7', subject: 'electronics', band: 'explorer', rarity: 'epic', emoji: '🎈',
+    title: 'Static Cling',
+    question: 'Why does a balloon rubbed on your hair stick to a wall afterward?',
+    choices: ['The balloon becomes magnetic', 'Rubbing builds up static electric charge that attracts the wall', 'The wall is sticky', 'Air pressure pushes it there'], answerIndex: 1,
+    explanation: 'Rubbing the balloon transfers electric charge onto its surface, and this static charge attracts it to the neutral wall.',
+    realWorldExample: 'This same static buildup is why your hair sometimes stands up after pulling off a wool sweater.',
+    funFact: 'Lightning is actually a giant, dramatic version of the same static electricity effect, built up inside storm clouds!',
   },
 
   // Builder (Class 6-8)
@@ -141,6 +177,24 @@ export const electronicsCards: Card[] = [
     realWorldExample: 'Your smartphone contains billions of transistors packed onto a single chip smaller than a fingernail.',
     funFact: 'The first transistor, built in 1947, was about the size of a hand — now billions fit on one chip!',
   },
+  {
+    id: 'el-b-6', subject: 'electronics', band: 'builder', rarity: 'rare', emoji: '☀️',
+    title: 'Solar Power Banks',
+    question: 'A portable power bank with a solar panel charges your phone even without a wall socket. How?',
+    choices: ['It stores wind instead of electricity', 'The panel converts sunlight into electricity, which charges the power bank\'s internal battery', 'It uses the Sun\'s heat as fuel directly', 'It magically refills overnight'], answerIndex: 1,
+    explanation: 'A solar panel converts light energy into electrical energy, which charges the power bank\'s battery for later use, even away from mains power.',
+    realWorldExample: 'Hikers and campers use solar power banks and solar chargers to keep devices running far from any electrical outlet.',
+    funFact: 'Some solar-powered road signs and calculators have run for years without ever needing a replacement battery!',
+  },
+  {
+    id: 'el-b-7', subject: 'electronics', band: 'builder', rarity: 'epic', emoji: '📸',
+    title: 'Capacitors and Camera Flash',
+    question: 'Why can an old camera\'s flash light up so brightly and instantly, even though its battery is small?',
+    choices: ['The battery is secretly very powerful', 'A capacitor slowly stores charge, then releases it all at once in a sudden burst', 'The flash bulb makes its own electricity', 'It uses static electricity from the air'], answerIndex: 1,
+    explanation: 'A capacitor stores electrical charge over a short time and then discharges it almost instantly, delivering a burst of power much greater than the battery could give alone.',
+    realWorldExample: 'Defibrillators (used to restart a heart in emergencies) work the same way — slowly charging a capacitor, then releasing a powerful, controlled shock.',
+    funFact: 'Unlike batteries, capacitors can charge and discharge extremely quickly, which is why camera flashes recharge again within seconds!',
+  },
 
   // Innovator (Class 9-10)
   {
@@ -187,5 +241,23 @@ export const electronicsCards: Card[] = [
     explanation: "Kirchhoff's Current Law is based on conservation of charge — current can't be created or destroyed at a junction.",
     realWorldExample: 'Engineers use this law to design complex circuit boards like the ones inside your laptop or gaming console.',
     funFact: 'Gustav Kirchhoff formulated these laws in 1845 while still a student, at just 21 years old!',
+  },
+  {
+    id: 'el-i-6', subject: 'electronics', band: 'innovator', rarity: 'rare', emoji: '🧩',
+    title: 'Inside a Microchip',
+    question: 'A modern smartphone processor packs billions of transistors onto a chip smaller than a fingernail. What does this enable?',
+    choices: ['Nothing extra, it just looks impressive', 'Extremely fast, complex calculations in a tiny, low-power package', 'Only louder sound output', 'It mainly makes the phone heavier'], answerIndex: 1,
+    explanation: 'Packing billions of tiny transistors together lets a chip perform enormous numbers of calculations per second while staying small and energy-efficient.',
+    realWorldExample: 'This miniaturization is exactly why a phone in your pocket today is far more powerful than room-sized computers from the 1970s.',
+    funFact: 'The number of transistors on chips has roughly doubled every two years for decades — a trend called "Moore\'s Law"!',
+  },
+  {
+    id: 'el-i-7', subject: 'electronics', band: 'innovator', rarity: 'epic', emoji: '📶',
+    title: 'Wireless Charging',
+    question: 'How does a wireless charging pad transfer power into a phone without any charging cable plugged in?',
+    choices: ['It uses Wi-Fi signals to send power', 'It creates a changing magnetic field that induces current in a coil inside the phone', 'It heats the phone to charge it', 'It uses sound waves to transfer energy'], answerIndex: 1,
+    explanation: 'The pad generates a changing magnetic field, which induces an electric current in a matching coil inside the phone — a principle called electromagnetic induction.',
+    realWorldExample: 'Electric toothbrushes and some electric cars use this same wireless, contact-free charging principle.',
+    funFact: 'This same induction principle was discovered by Michael Faraday nearly 200 years ago, in 1831!',
   },
 ]

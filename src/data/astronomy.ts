@@ -47,6 +47,24 @@ export const astronomyCards: Card[] = [
     realWorldExample: 'The famous Hubble Space Telescope has taken incredible photos of galaxies billions of light-years away.',
     funFact: 'Galileo was one of the first people to use a telescope to study the night sky, in 1609!',
   },
+  {
+    id: 'as-f-6', subject: 'astronomy', band: 'foundations', rarity: 'common', emoji: '🌞',
+    title: 'The Sun is a Star',
+    question: 'What does the Sun do for all the planets in our solar system, including Earth?',
+    choices: ['It orbits around Earth', 'Its gravity holds the planets in orbit and gives them light and warmth', 'It is just a big rock', 'It does nothing important'], answerIndex: 1,
+    explanation: 'The Sun sits at the center of our solar system — its gravity keeps every planet in orbit, and its light and heat make life on Earth possible.',
+    realWorldExample: 'Plants use sunlight to grow through photosynthesis, which is the base of almost every food chain on Earth.',
+    funFact: 'The Sun is so big that over 1.3 million Earths could fit inside it!',
+  },
+  {
+    id: 'as-f-7', subject: 'astronomy', band: 'foundations', rarity: 'epic', emoji: '👨‍🚀',
+    title: 'Why Astronauts Wear Suits',
+    question: 'Why do astronauts need to wear a special space suit outside their spacecraft?',
+    choices: ['To look cool for photos', 'There is no air to breathe and no protection from extreme temperatures in space', 'To stay warm only', 'Space suits are just tradition'], answerIndex: 1,
+    explanation: 'Space has no air to breathe and swings between extreme heat and cold, so a space suit supplies oxygen and protects astronauts from these dangers.',
+    realWorldExample: 'Space suits also protect astronauts from tiny fast-moving space debris that could otherwise be dangerous.',
+    funFact: 'A NASA space suit is actually a mini spacecraft by itself, complete with its own oxygen, water, and temperature control!',
+  },
 
   // Explorer (Class 3-5)
   {
@@ -93,6 +111,24 @@ export const astronomyCards: Card[] = [
     explanation: "As a comet approaches the Sun, its icy surface vaporizes, releasing gas and dust that form a glowing tail pushed by solar wind.",
     realWorldExample: 'Halley\'s Comet is famous for returning to be visible from Earth roughly every 76 years.',
     funFact: 'A comet\'s tail always points away from the Sun — not behind the comet\'s direction of travel!',
+  },
+  {
+    id: 'as-e-6', subject: 'astronomy', band: 'explorer', rarity: 'common', emoji: '🌠',
+    title: 'Shooting Stars',
+    question: 'What is actually happening when you see a "shooting star" streak across the night sky?',
+    choices: ['A star is falling out of the sky', 'A tiny piece of space rock burns up as it enters Earth\'s atmosphere', 'The Moon is cracking', 'A plane is flying with its lights on'], answerIndex: 1,
+    explanation: 'A "shooting star" is actually a small meteoroid burning up from friction as it speeds into Earth\'s atmosphere, creating a bright streak of light.',
+    realWorldExample: 'Meteor showers, like the Perseids in August, happen when Earth passes through a trail of dust left behind by a comet.',
+    funFact: 'Most shooting stars are caused by objects no bigger than a grain of sand or a small pebble!',
+  },
+  {
+    id: 'as-e-7', subject: 'astronomy', band: 'explorer', rarity: 'rare', emoji: '🧑‍🚀',
+    title: 'Floating in Space',
+    question: 'Why do astronauts float around inside the International Space Station instead of walking normally?',
+    choices: ['There is no gravity anywhere near Earth', 'The station and everyone in it are continuously falling around Earth together, feeling weightless', 'Astronauts wear special floating shoes', 'The station has no floor'], answerIndex: 1,
+    explanation: 'The station and astronauts are all falling toward Earth at the same rate while moving forward fast enough to keep circling it, which feels like weightlessness.',
+    realWorldExample: 'This is the same feeling you get for a split second at the top of a rollercoaster drop — just continuous, because the station never actually lands.',
+    funFact: 'Astronauts can lose bone and muscle strength in long-duration weightlessness, so they must exercise for about 2 hours every single day!',
   },
 
   // Builder (Class 6-8)
@@ -141,6 +177,24 @@ export const astronomyCards: Card[] = [
     realWorldExample: 'On a clear, dark night away from city lights, you can actually see part of the Milky Way as a hazy band across the sky.',
     funFact: 'The Milky Way contains an estimated 100–400 billion stars — and our Sun is just one of them!',
   },
+  {
+    id: 'as-b-6', subject: 'astronomy', band: 'builder', rarity: 'rare', emoji: '🪨',
+    title: 'The Asteroid Belt',
+    question: 'Where is the main asteroid belt located in our solar system?',
+    choices: ['Between the Sun and Mercury', 'Between Mars and Jupiter', 'Beyond Neptune', 'Between Earth and the Moon'], answerIndex: 1,
+    explanation: 'The asteroid belt is a region between Mars and Jupiter containing millions of rocky leftover objects from the solar system\'s early formation.',
+    realWorldExample: 'Space missions like NASA\'s Dawn have visited asteroids in this belt, like Ceres and Vesta, to study the solar system\'s early history.',
+    funFact: 'Despite movies showing ships weaving through packed rocks, the asteroid belt is actually mostly empty space — the asteroids are millions of km apart!',
+  },
+  {
+    id: 'as-b-7', subject: 'astronomy', band: 'builder', rarity: 'legendary', emoji: '🚗',
+    title: 'Rovers on Mars',
+    question: 'Why do space agencies send robotic rovers to explore Mars instead of sending astronauts directly?',
+    choices: ['Robots are cheaper and can survive Mars\'s harsh conditions without needing food, air, or a return trip', 'Mars has no interesting features to study', 'Rovers can fly faster than rockets', 'It is purely a marketing choice'], answerIndex: 0,
+    explanation: 'Robotic rovers can operate for years in Mars\'s extreme cold and radiation without life support, food, or a costly return journey — much safer and cheaper than sending humans today.',
+    realWorldExample: 'NASA\'s Perseverance rover has been exploring Mars, collecting rock samples and even testing how to produce oxygen there for future human missions.',
+    funFact: 'Signals take several minutes to travel between Mars and Earth, so rovers must be able to make some decisions on their own without instant remote control!',
+  },
 
   // Innovator (Class 9-10)
   {
@@ -187,5 +241,23 @@ export const astronomyCards: Card[] = [
     explanation: "Escape velocity is the minimum speed needed so an object's kinetic energy overcomes Earth's gravitational pull without further propulsion.",
     realWorldExample: 'Every mission sending probes beyond Earth orbit, like to Mars or the Moon, must calculate and reach this escape velocity.',
     funFact: "The Moon's escape velocity is only 2.4 km/s — over 4 times lower than Earth's — one reason lunar launches use less fuel!",
+  },
+  {
+    id: 'as-i-6', subject: 'astronomy', band: 'innovator', rarity: 'rare', emoji: '🌑',
+    title: 'Dark Matter',
+    question: 'Why do scientists believe there is "dark matter" in the universe, even though it cannot be seen directly?',
+    choices: ['It was invented for science fiction stories', 'Galaxies spin in ways that only make sense if extra unseen mass is present, pulling with gravity', 'It is just empty space with a strange name', 'Telescopes are simply too weak to see it'], answerIndex: 1,
+    explanation: 'Galaxies rotate faster than the visible matter alone can explain — extra unseen mass (dark matter) must be adding gravity to hold them together.',
+    realWorldExample: 'Studying dark matter\'s gravity even helps astronomers map where invisible mass is hiding, by observing how it bends light from objects behind it.',
+    funFact: 'Scientists estimate dark matter makes up about 27% of the universe — while all the stars, planets, and everything visible make up less than 5%!',
+  },
+  {
+    id: 'as-i-7', subject: 'astronomy', band: 'innovator', rarity: 'epic', emoji: '🌍',
+    title: 'The Goldilocks Zone',
+    question: 'What makes a distant exoplanet a promising candidate for hosting life, according to the "habitable zone" idea?',
+    choices: ['It must be the largest planet around its star', 'It orbits at a distance where temperatures could allow liquid water to exist', 'It must be closest to its star', 'It must have rings like Saturn'], answerIndex: 1,
+    explanation: 'The habitable ("Goldilocks") zone is the orbital distance where a planet is not too hot or too cold, allowing liquid water — considered essential for life as we know it — to exist on its surface.',
+    realWorldExample: 'Earth sits comfortably in the Sun\'s habitable zone, which is a major reason it has oceans and supports life, unlike scorching Venus or frozen Mars.',
+    funFact: 'Scientists have found several Earth-sized exoplanets in their star\'s habitable zone, including some in the TRAPPIST-1 system, just 40 light-years away!',
   },
 ]

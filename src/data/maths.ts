@@ -47,6 +47,24 @@ export const mathsCards: Card[] = [
     realWorldExample: 'Tailors subtract measurements like this every time they cut cloth to fit you.',
     funFact: 'Ancient Egyptians measured length using their own forearms, called a "cubit"!',
   },
+  {
+    id: 'ma-f-6', subject: 'maths', band: 'foundations', rarity: 'common', emoji: '🍬',
+    title: 'Odd One Out',
+    question: 'You have 7 candies and want to share them equally between 2 friends with none left over. Can you?',
+    choices: ['Yes, 3 each with none left', 'No, 7 is an odd number so one will be left over', 'Yes, always possible', 'No, you need exactly 10 candies'], answerIndex: 1,
+    explanation: 'Odd numbers like 7 cannot be split into two exactly equal whole groups — one candy will always be left over.',
+    realWorldExample: 'This is why sharing an odd number of sweets or seats among two people always ends with someone getting one extra or asking to split it.',
+    funFact: 'Every other counting number is odd or even, alternating forever — 1, 2, 3, 4, 5...!',
+  },
+  {
+    id: 'ma-f-7', subject: 'maths', band: 'foundations', rarity: 'rare', emoji: '🏁',
+    title: "Who's First?",
+    question: 'In a race, Meera finishes before Raj, and Raj finishes before Sam. Who finishes in 2nd place?',
+    choices: ['Meera', 'Raj', 'Sam', 'It is a tie'], answerIndex: 1,
+    explanation: 'Ordering positions (1st, 2nd, 3rd) is called using ordinal numbers — here the order is Meera, then Raj, then Sam.',
+    realWorldExample: 'Sports podiums, exam rank lists, and even queue positions at a shop all use this exact idea of ordering.',
+    funFact: 'The Olympics only give medals for 1st, 2nd, and 3rd place — gold, silver, and bronze!',
+  },
 
   // Explorer (Class 3-5)
   {
@@ -93,6 +111,24 @@ export const mathsCards: Card[] = [
     explanation: 'Multiply the scale: 4 cm × 5 km/cm = 20 km.',
     realWorldExample: 'GPS apps and paper maps both rely on scale to show huge distances on a small screen or page.',
     funFact: 'The largest accurate scale map ever made was 1:1 — an actual size map of England (impossible to unfold)!',
+  },
+  {
+    id: 'ma-e-6', subject: 'maths', band: 'explorer', rarity: 'common', emoji: '📊',
+    title: 'Reading a Rainfall Chart',
+    question: 'A bar graph shows rainfall of 20mm, 45mm, and 15mm over three days. Which day had the most rain?',
+    choices: ['Day 1', 'Day 2', 'Day 3', 'All the same'], answerIndex: 1,
+    explanation: 'On a bar graph, the tallest bar represents the largest value — here Day 2\'s 45mm bar is the tallest.',
+    realWorldExample: 'Weather reports, news channels, and school science projects all use bar graphs exactly like this to show data at a glance.',
+    funFact: 'The bar graph was invented by William Playfair in 1786 — he also invented the pie chart!',
+  },
+  {
+    id: 'ma-e-7', subject: 'maths', band: 'explorer', rarity: 'epic', emoji: '✏️',
+    title: 'Packing Pencils',
+    question: 'A box holds 12 pencils. How many pencils are in 6 boxes?',
+    choices: ['18', '48', '72', '60'], answerIndex: 2,
+    explanation: 'Multiplication is repeated addition: 12 pencils × 6 boxes = 72 pencils.',
+    realWorldExample: 'Shopkeepers use multiplication like this to quickly count stock arriving in sealed cartons.',
+    funFact: 'The multiplication symbol "×" was first used in a math book printed in 1631!',
   },
 
   // Builder (Class 6-8)
@@ -141,6 +177,24 @@ export const mathsCards: Card[] = [
     realWorldExample: 'Packaging companies compute volume to fit the most boxes into a delivery truck.',
     funFact: 'A standard shipping container holds about 33 cubic metres — that\'s 33 million cm³!',
   },
+  {
+    id: 'ma-b-6', subject: 'maths', band: 'builder', rarity: 'rare', emoji: '🍰',
+    title: 'Scaling a Recipe',
+    question: 'A cake recipe for 4 people needs 200g of flour. How much flour is needed for 10 people?',
+    choices: ['400g', '500g', '600g', '250g'], answerIndex: 1,
+    explanation: 'This uses ratio/proportion: 200g ÷ 4 people = 50g per person, so 10 people need 50 × 10 = 500g.',
+    realWorldExample: 'Bakers and chefs scale recipes up or down this exact way when cooking for more or fewer guests.',
+    funFact: 'Professional kitchens use ratio recipes (like "1 part sugar to 2 parts flour") so a dish scales perfectly to any size!',
+  },
+  {
+    id: 'ma-b-7', subject: 'maths', band: 'builder', rarity: 'common', emoji: '🌡️',
+    title: 'Below Zero',
+    question: 'The temperature is -3°C at night and rises by 8°C by noon. What is the noon temperature?',
+    choices: ['5°C', '11°C', '-11°C', '8°C'], answerIndex: 0,
+    explanation: 'Adding a positive number to a negative one: -3 + 8 = 5°C.',
+    realWorldExample: 'Weather reports in cold countries use negative numbers constantly, and pilots calculate temperature changes at altitude the same way.',
+    funFact: 'The coldest temperature ever recorded on Earth was -89.2°C, in Antarctica!',
+  },
 
   // Innovator (Class 9-10)
   {
@@ -187,5 +241,23 @@ export const mathsCards: Card[] = [
     explanation: '29 cannot be divided evenly by any number except 1 and 29 — it is prime.',
     realWorldExample: 'Huge prime numbers secretly protect your online banking and messages through encryption.',
     funFact: 'The largest known prime number has over 41 million digits!',
+  },
+  {
+    id: 'ma-i-6', subject: 'maths', band: 'innovator', rarity: 'rare', emoji: '🪜',
+    title: "Pythagoras's Ladder",
+    question: 'A 5m ladder leans against a wall with its base 3m from the wall. How high up the wall does it reach?',
+    choices: ['2 m', '4 m', '8 m', '6 m'], answerIndex: 1,
+    explanation: "By the Pythagorean theorem, height² + 3² = 5², so height² = 25 − 9 = 16, giving height = 4m.",
+    realWorldExample: 'Builders and electricians use exactly this calculation to check a ladder is placed at a safe, stable angle.',
+    funFact: 'The 3-4-5 triangle is so useful that ancient Egyptian builders used a knotted rope with those exact spacings to make perfect right angles!',
+  },
+  {
+    id: 'ma-i-7', subject: 'maths', band: 'innovator', rarity: 'epic', emoji: '🦠',
+    title: 'Exponential Spread',
+    question: 'If a rumour is told to 2 new people every hour, and each of those tells 2 more the next hour, what kind of growth is this?',
+    choices: ['Linear growth', 'Exponential growth', 'No growth at all', 'Negative growth'], answerIndex: 1,
+    explanation: 'Exponential growth means the quantity multiplies by a fixed factor each step, growing extremely fast — very different from adding a fixed amount each time (linear growth).',
+    realWorldExample: 'This is exactly how viral social media posts, chain messages, and disease outbreaks can spread shockingly fast from a small start.',
+    funFact: 'Starting from just 1 person and doubling every day, you would pass 1 million people in only 20 days!',
   },
 ]
