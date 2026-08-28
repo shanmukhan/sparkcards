@@ -89,12 +89,7 @@ export const useGameStore = create<GameState>()(
         return get().mastery[cardId] ?? { level: 0, dueAt: 0, seen: 0, correct: 0 }
       },
 
-      isBandUnlocked: (band) => {
-        const idx = BAND_ORDER.indexOf(band)
-        if (idx <= 0) return true
-        const prevBand = BAND_ORDER[idx - 1]
-        return get().bandCorrectCounts[prevBand] >= UNLOCK_THRESHOLD
-      },
+      isBandUnlocked: () => true,
 
       answerCard: (cardId, correct) => {
         let xpGained = 0
