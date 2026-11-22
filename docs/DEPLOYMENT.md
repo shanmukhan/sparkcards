@@ -1,5 +1,7 @@
 # Deployment
 
+> **22 November 2026 domain migration (Pi live):** `shanmukhan.com` is retired. SparkCards is now live at **`https://sparkcards.lahari.org`** (`200`, valid Let's Encrypt cert, `sparkcards.shanmukhan.com.conf` disabled and its cert deleted). The docroot `/var/www/sparkcards` is unchanged. Historical `sparkcards.shanmukhan.com` references below reflect the prior setup.
+
 SparkCards is deployed as a static site on a Raspberry Pi (`lipi@192.168.1.13`), served by Apache, reachable at **https://sparkcards.shanmukhan.com**. There is no backend/server process for the app itself — Apache just serves the built `dist/` files.
 
 > **Update (2026-09-03, later same day):** SparkCards moved off `shanmukhan.com`'s root to its own subdomain, **`sparkcards.shanmukhan.com`** — `shanmukhan.com`'s root now serves a multi-product landing page (source: `rpi-setup/scripts/site-content/shanmukhan/index.html`) that links out to every product, this one included. Vhost creation is now `rpi-setup/scripts/configure-sparkcards.sh`'s job (was `configure-shanmukhan-vhost.sh`); config file is `/etc/apache2/sites-available/sparkcards.shanmukhan.com.conf`, its own Let's Encrypt cert (not shared with `shanmukhan.com`'s). The document root itself is unchanged (`/var/www/sparkcards`), and this subdomain needs its own DNS A record at the registrar (a `shanmukhan.com` A record doesn't cover subdomains — see `rpi-setup/docs/02-dns-and-domain.md`). See `rpi-setup/docs/14-app-deployment.md` for the full current shape.
