@@ -27,7 +27,6 @@ interface GameState {
   newBadgesEarned: (before: string[]) => string[]
 }
 
-const BAND_ORDER: Band[] = ['foundations', 'explorer', 'builder', 'innovator']
 const UNLOCK_THRESHOLD = 12 // correct answers needed in a band before the next unlocks
 
 const REPETITION_INTERVALS_MS = [
